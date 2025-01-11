@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Chatbot Usage Statistics</title>
+    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+    <style>.custom-container { max-width: 900px; } td,th { padding: 8px; text-align: left; }</style>
+  </head>
+  <body class="p-10">
+
+    <div class="custom-container mx-auto flex flex-col gap-10">
+
+      <header>
+        <h1 class="font-semibold text-2xl">Chatbot Usage Statistics</h1>
+      </header>
+
+      <section class="flex flex-col">
+        <div class="flex">
+          <div class="w-48">Active conversations:</div><div>{{ active_users }}</div>
+        </div>
+        <div class="flex">
+          <div class="w-48">Messages served:</div><div>{{ messages_served }}</div>
+        </div>
+        <div class="flex">
+          <div class="w-48">Server uptime:</div><div>{{ uptime }}</div>
+        </div>
+      </section>
+
+      <section class="flex flex-col gap-4">
+        <h2 class="font-semibold text-lg">Last {{ message_limit }} questions and answers</h2>
+        <table class="border">
+          <thead>
+            <tr>
+              <th>X-Key</th>
+              <th>Created at</th>
+              <th>Question</th>
+              <th>Answer</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for item in last_questions %}
+              <tr>
+                <td>{{ item.x_key|truncate(10) }}</td>
+                <td>{{ item.created_at|format_datetime('%Y-%m-%d %H:%M') }}</td>
+                <td>{{ item.question|truncate(30) }}</td>
+                <td>{{ item.answer|truncate(40) }}</td>
+              </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </section>
+
+    </div>
+  
+  </body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Chatbot</title>
+
+    <style>
+      * { font-family: sans-serif; }
+      section.form { display: flex; flex-direction: column; gap: 0.5em; margin-bottom: 2em; }
+      section.responses { display: flex; flex-direction: column; gap: 1em; }
+      section.responses > div { border: 1px solid gray; padding: 0.5em; }
+      section.responses h4 { margin-block-start: 0; }
+    </style>
+  </head>
+  <body>
+    <p>Chatbot Interface</p>
+
+    <section class="form">
+      <textarea class="question" rows="3">Give me a recipe for lamb and garlic</textarea>
+      <button class="send">Send message</button>
+    </section>
+    
+    <section class="responses"></section>
+    
+    <script type="module" src="chatbot.js"></script>
+  </body>
+</html>
