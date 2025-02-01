@@ -3,6 +3,10 @@
 Specialized World of Warcraft bot using GPT LLM via RAG. This prioritizes
 locally indexed data instead of LLM knowledge.
 
+> [!NOTE]
+> Current system prompt used is in [system_prompt.txt](./system_prompt.txt)
+> which should be updated as we move along with testing.
+
 ## Requirements
 
 - Python 3.10+
