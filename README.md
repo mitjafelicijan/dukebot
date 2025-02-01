@@ -31,7 +31,7 @@ source .venv/bin/activate
 
 # Install dependencies manually (preferred).
 pip install python-dotenv fastapi "uvicorn[standard]" jinja2 asyncio \
-    llama-indexi llama-index-llms-openai llama-index-embeddings-huggingface
+    llama-index llama-index-llms-openai llama-index-embeddings-huggingface
 
 # Install dependencies with requirements.txt (not preferred since this implies
 # host machine has Nvidia GPU).
