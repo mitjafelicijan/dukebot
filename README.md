@@ -1,7 +1,7 @@
 # Duke Chatbot Server & Utilities
 
 Specialized World of Warcraft bot using GPT LLM via RAG. This prioritizes
-locally indexed data instead of LLM knowledge.
+locally indexed data instead of LLM general knowledge.
 
 > [!NOTE]
 > Current system prompt used is in [system_prompt.txt](./system_prompt.txt)
@@ -63,7 +63,7 @@ Open browser http://localhost:6969/chat.
 With repo comes a helper CLI utility `wrench.py` that has couple of
 options to index etc. New things will be added to this.
 
-> You will still need to go through Provision part of this tutorial and
+> You will still need to go through Local development part of this tutorial and
 > install all dependencies.
 
 ```sh
