@@ -20,12 +20,15 @@ python3 -m venv .venv
 source .venv/bin/activate
 
 # Install dependencies manually (preferred).
-pip install python-dotenv fastapi "uvicorn[standard]" jinja2 asyncio llama-indexi llama-index-llms-openai llama-index-embeddings-huggingface
+pip install python-dotenv fastapi "uvicorn[standard]" jinja2 asyncio \
+    llama-indexi llama-index-llms-openai llama-index-embeddings-huggingface
 
-# Install dependencies with requirements.txt (not preferred since this implies host machine has Nvidia GPU).
+# Install dependencies with requirements.txt (not preferred since this implies
+# host machine has Nvidia GPU).
 pip install -r requirements.txt
 
-# Reindex and create new vector database (not needed if nothing changed in corpus data).
+# Reindex and create new vector database (not needed if nothing changed in
+# corpus data).
 make index
 
 # Run development server (on port 6969).
@@ -48,7 +51,8 @@ options to index etc. New things will be added to this.
 > install all dependencies.
 
 ```sh
-# Let's assume you have activated virtual environment with `source .venv/bin/activate`.
+# Let's assume you have activated virtual environment with
+# `source .venv/bin/activate`.
 python3 wrench.py -h
 ```
 
