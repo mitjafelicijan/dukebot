@@ -16,6 +16,11 @@ locally indexed data instead of LLM knowledge.
 
 ## Local development
 
+> [!IMPORTANT]
+> This requires OpenAI API access and account. So make sure you have an account
+> and some money deposited for testing. You will also need to create API
+> credentials in OpenAI Dashboard.
+
 ```sh
 # Create virtual environment.
 python3 -m venv .venv
@@ -30,6 +35,12 @@ pip install python-dotenv fastapi "uvicorn[standard]" jinja2 asyncio \
 # Install dependencies with requirements.txt (not preferred since this implies
 # host machine has Nvidia GPU).
 pip install -r requirements.txt
+
+# Prepare environmental file.
+cp .env.sample .env
+
+# Edit `.env` file and fill missing information.
+vim .env
 
 # Reindex and create new vector database (not needed if nothing changed in
 # corpus data).
