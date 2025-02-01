@@ -4,17 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Chatbot Usage Statistics</title>
+    <title>Usage Stats</title>
     <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
-    <style>.custom-container { max-width: 900px; } td,th { padding: 8px; text-align: left; }</style>
   </head>
   <body class="p-10">
-
-    <div class="custom-container mx-auto flex flex-col gap-10">
-
-      <header>
-        <h1 class="font-semibold text-2xl">Chatbot Usage Statistics</h1>
-      </header>
+    <div class="flex flex-col gap-8">
+      <nav class="flex gap-3">
+		<div class="font-bold">Statistics</div>
+		<div>»</div>
+		<a href="/chat/" class="underline text-red-600">Chat</a>
+		<a href="/stats/" class="underline text-red-600">Stats</a>
+      </nav>
 
       <section class="flex flex-col">
         <div class="flex">
@@ -30,29 +30,19 @@
 
       <section class="flex flex-col gap-4">
         <h2 class="font-semibold text-lg">Last {{ message_limit }} questions and answers</h2>
-        <table class="border">
-          <thead>
-            <tr>
-              <th>X-Key</th>
-              <th>Created at</th>
-              <th>Question</th>
-              <th>Answer</th>
-            </tr>
-          </thead>
-          <tbody>
-            {% for item in last_questions %}
-              <tr>
-                <td>{{ item.x_key|truncate(10) }}</td>
-                <td>{{ item.created_at|format_datetime('%Y-%m-%d %H:%M') }}</td>
-                <td>{{ item.question|truncate(30) }}</td>
-                <td>{{ item.answer|truncate(40) }}</td>
-              </tr>
-            {% endfor %}
-          </tbody>
-        </table>
-      </section>
 
+		{% for item in last_questions %}
+		  <details>
+		  	<summary class="cursor-pointer select-none">{{ item.user_prompt|truncate(200) }}</summary>
+			<div class="py-4">
+				<p><strong>Asked:</strong> {{ item.created_at|format_datetime('%Y-%m-%d %H:%M') }}</p>
+				<p><strong>User prompt:</strong> {{ item.user_prompt }}</p>
+				<p><strong>System prompt:</strong> {{ item.system_prompt }}</p>
+				<p><strong>Answer:</strong> {{ item.answer }}</p>
+			</div>
+		  </details>
+		{% endfor %}
+      </section>
     </div>
-  
   </body>
 </html>

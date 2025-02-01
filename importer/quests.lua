@@ -4,7 +4,7 @@ local function exportToFiles(list, data)
 			print("Quest ID: " .. tostring(questID))
 			print("Title: " .. data[questID]["T"])
 
-			local file = io.open("../corpus/" .. tostring(questID) .. ".txt", "w")
+			local file = io.open("../corpus/quests/" .. tostring(questID) .. ".md", "w")
 			if file then
 				file:write("Quest ID: " .. tostring(questID) .. "\n")
 				file:write("Level: " .. tostring(questInfo["lvl"]) .. "\n")

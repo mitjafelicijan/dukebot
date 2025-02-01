@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Chat</title>
+    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+  </head>
+  <body class="p-10">
+    <div class="flex flex-col gap-8">
+      <nav class="flex gap-3">
+		<div class="font-bold">Chat</div>
+		<div>»</div>
+		<a href="/chat/" class="underline text-red-600">Chat</a>
+		<a href="/stats/" class="underline text-red-600">Stats</a>
+      </nav>
+
+	  <section class="flex flex-col gap-4">
+		  <textarea class="user-prompt border p-2 bg-gray-50" rows="2" placeholder="User prompt here..."></textarea>
+		  <textarea class="system-prompt border p-2" rows="15" placeholder="System prompt here..."></textarea>
+		  <button class="send border bg-gray-200">Ask a question</button>
+	  </section>
+
+	  <section class="responses flex flex-col gap-2"></section>
+	</div>
+
+	<script type="module" src="/static/chatbot.js"></script>
+  </body>
+</html>
