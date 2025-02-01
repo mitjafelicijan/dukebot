@@ -58,6 +58,23 @@ uvicorn main:app --port 6969 --workers 6
 
 Open browser http://localhost:6969/chat.
 
+## Data importing
+
+All the final data that is used in indexing by RAF is located in `corpus`
+directory. However this data needs to be first exported from other sources like
+pfQuest and other sources like Wowhead comments.
+
+All scripts that generate corpus data are located in `importer` directory.
+
+- `quests.lua` - takes pfQuest data and generates markdown files of quests.
+- `quests-comments.py` - takes `comments.csv` and appends all valid comments to
+  quest data. Comment data is provided by web scraper written by
+  [kakexd](https://github.com/kakexd/webscrape).
+
+> [!NOTE]
+> Do not execute this scripts unnecessarily. These should only be ran after new
+> content is being added. Also do not change corpus data.
+
 ### Support utility
 
 With repo comes a helper CLI utility `wrench.py` that has couple of
