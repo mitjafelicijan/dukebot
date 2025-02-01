@@ -5,7 +5,8 @@ locally indexed data instead of LLM knowledge.
 
 > [!NOTE]
 > Current system prompt used is in [system_prompt.txt](./system_prompt.txt)
-> which should be updated as we move along with testing.
+> which should be updated as we move along with testing. Use this prompt in the
+> chat UI for testing and tweaking responses.
 
 ## Requirements
 
