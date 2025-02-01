@@ -11,8 +11,8 @@ locally indexed data instead of LLM knowledge.
 
 - Python 3.10+
 - Pip 24.0+
-- Lua 5.4+
-- GNU Make 4.4+
+- Lua 5.4+ (only for development)
+- GNU Make 4.4+ (only for development)
 
 ## Local development
 
