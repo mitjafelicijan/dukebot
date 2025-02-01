@@ -23,15 +23,15 @@ end
 
 -- Export Vanilla Quests
 do
-	local list = require("vanilla.quests")
-	local data = require("vanilla.enUS.quests")
+	local list = require("quests-vanilla.quests")
+	local data = require("quests-vanilla.enUS.quests")
 	exportToFiles(list, data)
 end
 
 -- Export Turtle Quests
 do
-	local list = require("turtle.quests-turtle")
-	local data = require("turtle.enUS.quests-turtle")
+	local list = require("quests-turtle.quests-turtle")
+	local data = require("quests-turtle.enUS.quests-turtle")
 	exportToFiles(list, data)
 end
 

@@ -1,35 +1,43 @@
-# Chatbot server
+# Duke Chatbot Server & Utilities
 
-This server handles chatbot interactions, managing conversations and
-collecting statistics for performance analysis.
+Specialized World of Warcraft bot using GPT LLM via RAG. This prioritizes
+locally indexed data instead of LLM knowledge.
+
+## Requirements
+
+- Python 3.10+
+- Pip 24.0+
+- Lua 5.4+
+- GNU Make 4.4+
 
 ## Local development
 
-### Install Ollama and run Mistral model
-
 ```sh
-curl -fsSL https://ollama.com/install.sh | sh
-```
-
-You can check which models are running by `ollama list`.
-
-To install new model you do `ollama pull mistral`. Check for all the
-available models on https://ollama.com/library.
-
-Make sure you also change `OLLAMA_MODEL` variable in `config.py` to also
-use that model in the chatbot.
-
-### Provision and run server
-
-```sh
+# Create virtual environment.
 python3 -m venv .venv
+
+# Activate environment.
 source .venv/bin/activate
 
-pip install fastapi "uvicorn[standard]" jinja2 asyncio llama-index llama-index-llms-ollama llama-index-embeddings-huggingface
+# Install dependencies manually (preferred).
+pip install python-dotenv fastapi "uvicorn[standard]" jinja2 asyncio llama-indexi llama-index-llms-openai llama-index-embeddings-huggingface
+
+# Install dependencies with requirements.txt (not preferred since this implies host machine has Nvidia GPU).
+pip install -r requirements.txt
+
+# Reindex and create new vector database (not needed if nothing changed in corpus data).
+make index
+
+# Run development server (on port 6969).
+make dev
+
+# Run normal server
+make server
+# or
+uvicorn main:app --port 6969 --workers 6
 ```
 
-Then run `make dev`. Make sure Ollama is running and Mistral model is
-running as well.
+Open browser http://localhost:6969/chat.
 
 ### Support utility
 
@@ -56,10 +64,3 @@ options:
   --index     indexes local storage and saves vector index to local folder
 ```
 
-## Example of chatbot frontend
-
-Example of the chatbot frontend is located in [demo](./demo) folder. The
-chatbot uses server push with Server0sent events to make things a
-little easier.
-
-Check `demo/chatbot.js` for implementation details.
