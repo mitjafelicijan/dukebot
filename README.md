@@ -63,6 +63,7 @@ Open browser http://localhost:6969/chat.
 With repo comes a helper CLI utility `wrench.py` that has couple of
 options to index etc. New things will be added to this.
 
+> [!NOTE]
 > You will still need to go through Local development part of this tutorial and
 > install all dependencies.
 
