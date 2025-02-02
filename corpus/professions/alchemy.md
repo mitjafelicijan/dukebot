@@ -1,172 +1,270 @@
-# Classic WoW Alchemy Leveling Guide 1-300
+# WoW Classic Alchemy Guide 1 to 300
+
+
+
+* Author: [Furious](https://www.warcrafttavern.com/author/furious/)
+* Date: April 10, 2019
+* Updated: November 30, 2023
+* Expansion: [WoW Classic](/wow-classic/)
+
+
+### Contents
+
+1. [Why Alchemy?](#ftoc-why-alchemy)
+2. [Trainer Locations](#ftoc-trainer-locations)
+3. [Things to Know](#ftoc-things-to-know)
+4. [Total Materials You’ll Need](#ftoc-total-materials-youll-need)
+5. [1-75 (Apprentice)](#ftoc-1-75-apprentice)
+   1. [1-60](#ftoc-1-60)
+   2. [60-75](#ftoc-60-75)
+6. [75-150 (Journeyman)](#ftoc-75-150-journeyman)
+   1. [75-110](#ftoc-75-110)
+   2. [110-140](#ftoc-110-140)
+   3. [140-150](#ftoc-140-150)
+7. [150-225 (Expert)](#ftoc-150-225-expert)
+   1. [150-155](#ftoc-150-155)
+   2. [155-185](#ftoc-155-185)
+   3. [185-210](#ftoc-185-210)
+   4. [210-215](#ftoc-210-215)
+   5. [215-225](#ftoc-215-225)
+8. [225-300 (Artisan)](#ftoc-225-300-artisan)
+   1. [225-230](#ftoc-225-230)
+   2. [230-250](#ftoc-230-250)
+   3. [250-265](#ftoc-250-265)
+   4. [265-285](#ftoc-265-285)
+   5. [285-300](#ftoc-285-300)
+9. [Crafting Flasks](#ftoc-crafting-flasks)
 
-![](/images/icons/professions/alchemy.png)This Classic WoW Alchemy Leveling guide will show you the fastest way how to level your Classic Alchemy skill up from 1 to 300 as inexpensively as possible.
+[SoD Alchemy Guide](https://www.warcrafttavern.com/wow-classic/guides/season-of-discovery-sod-alchemy-guide/)
+
+Alchemy is one of several crafting professions you can choose within WoW Classic! It concerns the creation of potions and elixirs, which will provide you offensive and defensive bonuses to aid in your gameplay. Alchemy requires the use of herbs, which can be found and gathered with the Herbalism profession in zones all across Azeroth. The higher level herbs used, the stronger the resulting potion will be.
 
-Alchemy is the best combined with Herbalism, with these two you can save a lot of gold because you don't have to buy the herbs from the Auction House. Check out my [Classic Herbalism leveling guide 1-300](/classic/herbalism-leveling-guide-classic-wow) if you want to level herbalism.
+Why Alchemy?
+------------
 
-I recommend trying [Zygor's 1-60 Leveling Guide](/recommends/zygor-classic-leveling) if you are still leveling your character or just starting a new alt. It will help you to reach level 60 a lot faster.
+Potions and elixirs created through alchemy provide benefits for players of all types. They’re good for giving your low-level character a slight edge while leveling, but they also become fairly important at higher levels when players run through dungeons and raids.
 
-#### Alchemy guide sections:
+Besides offering bonuses to help your character, because the potions and elixirs you’ll make are tradeable, it also becomes a fairly profitable profession, especially when paired with herbalism as your second profession.
 
-*   [Materials required](#mats)
-*   [Alchemy Trainers](#classic-alchemy-trainers)
-*   [1-60 #Apprentice](#1)
-*   [60-140 #Journeyman](#60)
-*   [140-210 #Expert](#140)
-*   [210-300 #Artisan](#210)
+Trainer Locations
+-----------------
 
-#### Approximate Materials Required:
+![WoW Classic Alchemy Trainer Locations](https://www.warcrafttavern.com/wp-content/uploads/2020/10/WoW-Classic-Alchemy-Trainer-Locations-195x300.jpg)
 
-There are a lot of yellow recipes used in the guide which means you won't gain skill points every single time. I added 10-20 extra herbs for most of these recipes, but it's still possible you will have to get a few more if you have the worst luck.
+Profession trainers in WoW Classic are different than Retail WoW, in the sense that some trainers can only train you up to a certain proficiency level. Here’s where you can locate an alchemy trainer for your skill level:
 
-*   65 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_flower_02.jpg)Peacebloom](https://classic.wowhead.com/item=2447)
-*   65 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_herb_10.jpg)Silverleaf](https://classic.wowhead.com/item=765)
-*   85 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_drink_06.jpg)Empty Vial](https://classic.wowhead.com/item=3371)
-*   100 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_root_01.jpg)Briarthorn](https://classic.wowhead.com/item=2450)
-*   35 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_herb_01.jpg)Bruiseweed](https://classic.wowhead.com/item=2453)
-*   105 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_drink_06.jpg)Leaded Vial](https://classic.wowhead.com/item=3372)
-*   20 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_jewelry_talisman_03.jpg)Mageroyal](https://classic.wowhead.com/item=785)
-*   50 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_herb_11.jpg)Stranglekelp](https://classic.wowhead.com/item=3820)
-*   35 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_root_02.jpg)Liferoot](https://classic.wowhead.com/item=3357)
-*   35 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_herb_03.jpg)Kingsblood](https://classic.wowhead.com/item=3356)
-*   35 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_herb_15.jpg)Goldthorn](https://classic.wowhead.com/item=3821)
-*   5 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_flower_01.jpg)Wild Steelbloom](https://classic.wowhead.com/item=3355)
-*   75 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_herb_18.jpg)Sungrass](https://classic.wowhead.com/item=8838)
-*   15 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_herb_08.jpg)Khadgar's Whisker](https://classic.wowhead.com/item=3358)
-*   120 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_drink_06.jpg)Crystal Vial](https://classic.wowhead.com/item=8925)
-*   45 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_herb_13.jpg)Arthas' Tears](https://classic.wowhead.com/item=8836)
-*   60 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_herb_14.jpg)Blindweed](https://classic.wowhead.com/item=8839)
-*   75 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_herb_sansamroot.jpg)Golden Sansam](https://classic.wowhead.com/item=13464)
-*   40 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_herb_mountainsilversage.jpg)Mountain Silversage](https://classic.wowhead.com/item=13465)
+* **Apprentice (1-75)** – The most convenient place to find entry level trainers will be inside any major city, easily located by asking a guard for directions. For Horde players, that will include Orgrimmar, Thunder Bluff, and Undercity. For Alliance players, that would include Stormwind, Ironforge, and Darnassus.
+* **Journeyman (75-150)** – Most trainers you’ll find in major cities to learn apprentice Alchemy are also capable of training you in Journeyman Alchemy, increasing your skill cap to 150. To make the next step easier, you should train in Darnassus if you’re Alliance, and Undercity if you’re a Horde player. You can learn this as early as Alchemy level 50.
+* **Expert (150-225)** – Once you’re at 125 skill level in Alchemy, you can train to become an Expert.
+  + Alliance players must train in Darnassus, with a trainer named [Ainethil](https://wowclassicdb.com/npc/4160).
+  + Horde players must go to Undercity and train with [Doctor Herbert Halsey](https://wowclassicdb.com/npc/4611).
+* **Artisan (225-300) –** After reaching at least 200 skill level in Alchemy, you can now become an Artisan.
+  + Alliance players must travel to Feathermoon Stronghold in Feralas to speak with [Kylanna Windwhisper](https://wowclassicdb.com/npc/7948) for further training.
+  + Horde players must go to Stonard in [Swamp of Sorrows](https://wowclassicdb.com/zone/8) to find [Rogvar](https://wowclassicdb.com/npc/1386) for their skill cap increase.
 
-### Playing Cataclysm Classic?
+Things to Know
+--------------
 
-Use my [Cataclysm Alchemy Leveling Guide](/cataclysm/alchemy-leveling-guide-cataclysm-classic) instead. There are changes to trainers and recipes, so you should use the Cataclysm guide.
+In WoW Classic, advancing to the next proficiency of a profession requires you to reach a certain level on your character. For non-gathering professions like Alchemy, you’ll need to be level 10 to learn Journeyman Alchemy, level 20 to learn Expert, and level 35 to learn Artisan Alchemy techniques.
 
-## Classic Alchemy Trainers
+| **Proficiency Level** | **Level Requirement** | **Min. Required Skill Points** | **Max Allowed Skill Points** | **Cost** |
+| --- | --- | --- | --- | --- |
+| Apprentice | 1 | None | 75 | Primary – 10 WoW Classic CopperSecondary – 1WoW Classic Silver |
+| Journeyman | 10 | 50 | 150 | 5WoW Classic Silver |
+| Expert | 20 | 125 | 225 | Primary – 50WoW Classic SilverSecondary – 10WoW Classic Silver |
+| Artisan | 35 | 200 | 300 | Primary – 5WoW Classic GoldSecondary – 2WoW Classic Gold 50WoW Classic Silver |
 
-You can learn Classic Alchemy from any of these NPCs below. Click on the links to see the trainer's exact location.
+On top of requiring herbs to create potions, you’ll occasionally need materials from other gathering professions to create potions. Those aren’t required to reach 300 in Alchemy, so we’ll avoid any recipes that require items other than herbs. All potions do require the use of a vial, but those can be found at a vendor directly next to any Alchemy trainer.
 
-You can also walk up to a guard in any city and ask where the Alchemy trainer is, then it will be marked with a red flag on your map.
+Total Materials You’ll Need
+---------------------------
 
-**Horde trainers:**
+We’ll break it up every 75 level into their own portion below, but here’s the approximate number of what herbs you’ll need for your complete journey of 1-300 Alchemy:
 
-*   [![](/images/icons/horde.png)Whuut](/npc/whuut-alchemy-trainer-classic-wow) in Orgrimmar.
-*   [![](/images/icons/horde.png)Doctor Martin Felben](/npc/doctor-martin-felben-alchemy-trainer-classic-wow) in Undercity.
-*   [![](/images/icons/horde.png)Kray](/npc/kray-alchemy-trainer-classic-wow) in Thunder Bluff
-*   [![](/images/icons/horde.png)Carolai Anise](/npc/carolai-anise-alchemy-trainer-classic-wow) in Tirisfal Glades.
-*   [![](/images/icons/horde.png)Miao'zan](/npc/miaozan-alchemy-trainer-classic-wow) in Durotar.
+* 60x [Peacebloom](https://wowclassicdb.com/item/2447)
+* 60x [Silverleaf](https://wowclassicdb.com/item/765)
+* 80x [Briarthorn](https://wowclassicdb.com/item/2450)
+* 30x [Bruiseweed](https://wowclassicdb.com/item/2453)
+* 15x [Mageroyal](https://wowclassicdb.com/item/785)
+* 40x [Stranglekelp](https://wowclassicdb.com/item/3820)
+* 30x [Liferoot](https://wowclassicdb.com/item/3357)
+* 30x [Kingsblood](https://wowclassicdb.com/item/3356)
+* 45x [Goldthorn](https://wowclassicdb.com/item/3821)
+* 5x [Wild Steelbloom](https://wowclassicdb.com/item/3355)
+* 70x [Sungrass](https://wowclassicdb.com/item/8838)
+* 15x [Khadgar’s Whisker](https://wowclassicdb.com/item/3358)
+* 20x [Arthas’ Tears](https://wowclassicdb.com/item/8836)
+* 40x [Blindweed](https://wowclassicdb.com/item/8839)
+* 40x [Golden Sansam](https://wowclassicdb.com/item/13464)
+* 20x [Mountain Silversage](https://wowclassicdb.com/item/13465)
+* 75x [Empty Vial](https://wowclassicdb.com/item/3371)
+* 90x [Leaded Vial](https://wowclassicdb.com/item/3372)
+* 90x [Crystal Vial](https://wowclassicdb.com/item/8925)
 
-**Alliance trainers:**
+1-75 (Apprentice)
+-----------------
 
-*   [![](/images/icons/alliance.png)Vosur Brakthel](/npc/vosur-brakthel-alchemy-trainer-classic-wow) in Ironforge.
-*   [![](/images/icons/alliance.png)Tel'Athir](/npc/telathir-alchemy-trainer-classic-wow) in Stormwind City.
-*   [![](/images/icons/alliance.png)Milla Fairancora](/npc/milla-fairancora-alchemy-trainer-classic-wow) in Darnassus.
-*   [![](/images/icons/alliance.png)Alchemist Mallory](/npc/alchemist-mallory-alchemy-trainer-classic-wow) in Elwyn Forest.
-*   [![](/images/icons/alliance.png)Cyndra Kindwhisper](/npc/cyndra-kindwhisper-alchemy-trainer-classic-wow) in Teldrassil.
+Mats Required:
 
-## Leveling Classic Alchemy
+* 60x [Peacebloom](https://wowclassicdb.com/item/2447)
+* 60x [Silverleaf](https://wowclassicdb.com/item/765)
+* 60x [Empty Vial](https://wowclassicdb.com/item/3371)
+* 15x [Minor Healing Potion](https://wowclassicdb.com/item/118) (made during first recipe)
+* 15x [Briarthorn](https://wowclassicdb.com/item/2450)
 
-### 1 - 60
+### 1-60
 
-65 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_potion_49.jpg)Minor Healing Potion](https://classic.wowhead.com/item=118) - 65 Peacebloom, 65 Sliverleaf, 65 Empty Vial
+**[Minor Healing Potion](https://wowclassicdb.com/item/118) x60 (1x Peacebloom + 1x Silverleaf + 1x Empty Vial)**
 
-You'll need these later, so keep all of them.
+For your first potion, you’ll want to make roughly 60 minor healing potions, using all your peacebloom and silverleaf to get to level 60. Make sure you don’t sell any of them, as you’ll need them to make the next potion! After this, make sure to learn Journeyman Alchemy to increase your level cap to 150.
 
-### Learn Journeyman Alchemy
+### 60-75
 
-You can only train Alchemy past 75 if you learn Journeyman Alchemy. (Requires character level 10) Not every Alchemy trainer will teach you this skill, you will need to find an Expert Alchemist.
+**[Lesser Healing Potion](https://wowclassicdb.com/item/858) x15 (1x Minor Healing Potion + 1x Briarthorn)**
 
-You can learn Journeyman Alchemy from these NPCs below:
+You’ll make your second potion for quite a few levels as well. Use the minor healing potions you made to get this far in combination with briarthorn to create lesser healing potions. You can sell or save these for personal use, as you won’t need them again.
 
-**Horde trainers:**
+75-150 (Journeyman)
+-------------------
 
-*   [![](/images/icons/horde.png)Yelmak](/npc/yelmak-journeyman-alchemy-trainer-classic-wow) in Orgrimmar.
-*   [![](/images/icons/horde.png)Doctor Marsh](/npc/doctor-marsh-alchemy-trainer-classic-wow) in Undercity
-*   [![](/images/icons/horde.png)Bena Winterhoof](/npc/bena-winterhoof-alchemy-trainer-classic-wow) in Thunder Bluff.
+Mats Required:
 
-**Alliance trainers:**
+* 35x [Minor Healing Potion](https://wowclassicdb.com/item/118) (already made)
+* 65x [Briarthorn](https://wowclassicdb.com/item/2450)
+* 30x [Bruiseweed](https://wowclassicdb.com/item/2453)
+* 30x [Leaded Vial](https://wowclassicdb.com/item/3372)
+* 10x [Mageroyal](https://wowclassicdb.com/item/785)
+* 10x [Stranglekelp](https://wowclassicdb.com/item/3820)
+* 10x [Empty Vial](https://wowclassicdb.com/item/3371)
 
-*   [![](/images/icons/alliance.png)Lilyssia Nightbreeze](/npc/lilyssia-nightbreeze-alchemy-trainer-classic-wow) in Stormwind City.
-*   [![](/images/icons/alliance.png)Sylvanna Forestmoon](/npc/sylvanna-forestmoon-alchemy-trainer-classic-wow) in Darnassus.
-*   [![](/images/icons/alliance.png)Tally Berryfizz](/npc/tally-berryfizz-alchemy-trainer-classic-wow) in Ironforge.
+### 75-110
 
-### 60 - 140
+**[Lesser Healing Potion](https://wowclassicdb.com/item/858) x35 (1x Minor Healing Potion +1x Briarthorn)**
 
-*   **60 - 110**  
-    65 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_potion_50.jpg)Lesser Healing Potion](https://classic.wowhead.com/item=858) - 65 Minor Healing Potion, 65 Briarthorn
+This is the same potion you made to get from 60-75. Continue mixing it until you level 110.
 
-*   **110 - 140**  
-    35 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_potion_51.jpg)Healing Potion](https://classic.wowhead.com/item=929) - 35 Bruiseweed, 35 Briarthorn, 35 Leaded Vial
+### 110-140
 
-## Expert Alchemy
+**[Healing Potion](https://wowclassicdb.com/item/929) x30 (1x Bruiseweed + 1x Briarthorn + 1x Leaded Vial)**
 
-You can only train Alchemy past 150 if you learn Expert Alchemy. (Requires character level 20) Not every Alchemy trainer will teach you this skill, you will need to find an Artisan Alchemist.
+You’ll want to make 30 healing potions to get you to level 140. At this point, you should head to Darnassus if you’re Alliance, or Undercity if you’re Horde, to learn expert Alchemy, boosting your level cap to 225.
 
-Horde players can learn Expert Alchemy from [![](/images/icons/horde.png)Doctor Herbert Halsey](/npc/classic/doctor-herbert-halsey) in Undercity. Alliance players can learn it from [![](/images/icons/alliance.png)Ainethil](/npc/classic/ainethil) in Darnassus.
+### 140-150
 
-#### Recipe to buy
+**[Lesser Mana Potion](https://wowclassicdb.com/item/3385) x10 (1x Mageroyal + 1x Stranglekelp + 1x Empty Vial)**
 
-Buy the [![](https://wow.zamimg.com/images/wow/icons/small/inv_scroll_03.jpg)Recipe: Superior Mana Potion](https://classic.wowhead.com/item=13477) before you leave Darnassus / Undercity! You will need this recipe later at 265, so you can save some time if you buy it now while you are already close to the NPCs who sell it.
+This is the first non-healing potion you’ll make! Craft 10 (or 15 if you’re reading ahead) lesser mana potions to reach the halfway mark to 300.
 
-The recipe is sold by [![](/images/icons/alliance.png)Ulthir](/npc/classic/ulthir) in Darnassus and by [![](/images/icons/horde.png)Algernon](/npc/classic/algernon) in Undercity. It's a limited supply item, so just keep checking until it's back "in stock" if someone bought it before you. (or buy it from the AH)
+150-225 (Expert)
+----------------
 
-### 140 - 155
+Mats Required:
 
-20 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_potion_71.jpg)Lesser Mana Potion](https://classic.wowhead.com/item=3385) - 20 Mageroyal, 20 Stranglekelp, 20 Empty Vial
+* 5x [Mageroyal](https://wowclassicdb.com/item/785)
+* 35x [Stranglekelp](https://wowclassicdb.com/item/3820)
+* 5x [Empty Vial](https://wowclassicdb.com/item/3371)
+* 30x [Liferoot](https://wowclassicdb.com/item/3357)
+* 30x [Kingsblood](https://wowclassicdb.com/item/3356)
+* 60x [Leaded Vial](https://wowclassicdb.com/item/3372)
+* 35x [Goldthorn](https://wowclassicdb.com/item/3821)
+* 5x [Wild Steelbloom](https://wowclassicdb.com/item/3355)
+* 10x [Sungrass](https://wowclassicdb.com/item/8838)
+* 10x [Khadgar’s Whisker](https://wowclassicdb.com/item/3358)
+* 10x [Crystal Vial](https://wowclassicdb.com/item/8925)
 
-This recipe will be yellow for the last 10 points, so you might have to make a few extra.
+### 150-155
 
-Make [![](https://wow.zamimg.com/images/wow/icons/small/inv_potion_38.jpg)Fire Oil](https://classic.wowhead.com/spell=7837) if you don't have [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_herb_11.jpg)Stranglekelp](https://classic.wowhead.com/item=3820) or if [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_monsterhead_01.jpg)Firefin Snapper](https://classic.wowhead.com/item=6359) is cheap. You could also continue to make more [![](https://wow.zamimg.com/images/wow/icons/small/inv_potion_51.jpg)Healing Potion](https://classic.wowhead.com/spell=3447).
+**[Lesser Mana Potion](https://wowclassicdb.com/item/3385) x5 (1x Mageroyal + 1x Stranglekelp + 1x Empty Vial)**
 
-### 155 - 185
+You’ll want to make 5 more lesser mana potions to bring your level to 155 so you can craft the next potion on this list.
 
-35 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_potion_52.jpg)Greater Healing Potion](https://classic.wowhead.com/item=1710) - 35 Liferoot, 35 Kingsblood, 35 Leaded Vial
+### 155-185
 
-If you made [![](https://wow.zamimg.com/images/wow/icons/small/inv_potion_38.jpg)Fire Oil](https://classic.wowhead.com/spell=7837), you can use it to make [![](https://wow.zamimg.com/images/wow/icons/small/inv_potion_33.jpg)Elixir of Firepower](https://classic.wowhead.com/spell=7845)
+**[Greater Healing Potion](https://wowclassicdb.com/item/1710) x30 (1x Liferoot + 1x Kingsblood + 1x Leaded Vial)**
 
-### 185 - 210
+At this point, your healing potions will actually be fairly strong, restoring around 500 health each. To reach 185 Alchemy, craft 30 greater healing potions.
 
-30 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_potion_93.jpg)Elixir of Agility](https://classic.wowhead.com/item=8949) - 30 Stranglekelp, 30 Goldthorn, 30 Leaded Vial
+### 185-210
 
-If you don't have that many Goldthorn, make [![](https://wow.zamimg.com/images/wow/icons/small/inv_potion_72.jpg)Mana Potion](https://classic.wowhead.com/spell=3452) or [![](https://wow.zamimg.com/images/wow/icons/small/inv_potion_18.jpg)Lesser Invisibility Potion](https://classic.wowhead.com/spell=3448) up to around 195.
+**[Elixir of Agility](https://wowclassicdb.com/item/8949) x25 (1x Stranglekelp + 1x Goldthorn + 1x Leaded Vial)**
 
-If you don't have any Goldthorn at all, you can make [![](https://wow.zamimg.com/images/wow/icons/small/inv_potion_06.jpg)Nature Protection Potion](https://classic.wowhead.com/spell=7259) between 190-215
+Now you’ll finally create your first long-lasting elixir! You’ll want to craft 25 elixirs of agility to reach 210 in Alchemy. If you play a rogue or hunter, you should keep these to help you do extra damage, or consider selling them on the auction house if you play another class.
 
-[![](https://wow.zamimg.com/images/wow/icons/small/inv_scroll_03.jpg)Recipe: Nature Protection Potion](https://tbc.wowhead.com/item=6057) is sold by [these vendors](https://tbc.wowhead.com/item=6057). It's a limited supply item, so it can take a while to respawn when someone else purchases the recipe before you.
+### 210-215
 
-## Artisan Alchemy
+**[Elixir of Greater Defense](https://wowclassicdb.com/item/8951) x5 (1x Steelbloom + 1x Goldthorn + 1x Leaded Vial)**
 
-You can only train Alchemy past 225 if you learn Artisan Alchemy. (Requires character level 35) Not every Alchemy trainer will teach you this skill, you will need to find a Master Alchemist.
+After finishing up your agility elixirs, you’ll now want to create a few elixirs focused on providing some physical defense. You’ll want to craft 5 elixirs of greater defense to stretch your Alchemy level to 215. If you haven’t done so after making elixirs of agility, head to Feathermoon Stronghold in Feralas if you’re Alliance, or Stonard in Swamp of Sorrows if you’re Horde, to learn Artisan Alchemy, and allowing you to reach the final cap of 300.
 
-Horde players can learn Artisan Alchemy from [![](/images/icons/horde.png)Rogvar](/npc/classic/rogvar) in Swamp of Sorrows at Stonard.
+### 215-225
 
-Alliance players can learn it from [![](/images/icons/alliance.png)Kylanna Windwhisper](/npc/classic/kylanna-windwhisper) in Feralas at Feathermoon Stronghold.
+**[Superior Healing Potion](https://wowclassicdb.com/item/3928) x10 (1x Sungrass + 1x Khadgar’s Whisker + 1x Crystal Vial)**
 
-### 210 - 265
+To finish off the last 10 levels before reaching Artisan Alchemy, make 10 superior healing potions. You’ll make another 5 in the next step, so you can save a step and just craft 15 if you’re so inclined.
 
-*   **210 - 215**  
-    5 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_potion_65.jpg)Elixir of Greater Defense](https://classic.wowhead.com/item=8951) - 5 Steelbloom, 5 Goldthorn, 5 Leaded Vial
+225-300 (Artisan)
+-----------------
 
-*   **215 - 230**  
-    15 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_potion_53.jpg)Superior Healing Potion](https://classic.wowhead.com/item=3928) - 15 Sungrass, 15 Khadgar's Whisker, 15 Crystal Vial
+Mats Required:
 
-*   **230 - 265**  
-    45 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_potion_53.jpg)Elixir of Detect Undead](https://classic.wowhead.com/item=9154) - 45 Arthas' Tears, 45 Crystal Vial
+* 60x [Sungrass](https://wowclassicdb.com/item/8838)
+* 5x [Khadgar’s Whisker](https://wowclassicdb.com/item/3358)
+* 80x [Crystal Vial](https://wowclassicdb.com/item/8925)
+* 20x [Arthas’ Tears](https://wowclassicdb.com/item/8836)
+* 15x [Goldthorn](https://wowclassicdb.com/item/3821)
+* 40x [Blindweed](https://wowclassicdb.com/item/8839)
+* 40x [Golden Sansam](https://wowclassicdb.com/item/13464)
+* 20x [Mountain Silversage](https://wowclassicdb.com/item/13465)
 
-### 265 - 285
+### 225-230
 
-30 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_potion_74.jpg)Superior Mana Potion](https://classic.wowhead.com/item=13443) - 60 Sungrass, 60 Blindweed, 30 Crystal Vial
+**[Superior Healing Potion](https://wowclassicdb.com/item/3928) x5 (1x Sungrass + 1x Khadgar’s Whisker + 1x Crystal Vial)**
 
-The recipe is sold by [![](/images/icons/alliance.png)Ulthir](/npc/classic/ulthir) in Darnassus and by [![](/images/icons/horde.png)Algernon](/npc/classic/algernon) in Undercity. It's a limited supply item, so just keep checking until it's back "in stock" if someone bought it before you. (or buy it from the AH) It's possible you already bought it when you trained Expert Alchemy, so check your inventory first.
+Craft 5 more superior healing potions, the same recipe you made to get from 215-225. You’ll want to reach 230 Alchemy so you can make the next elixir on this list.
 
-### 285 - 300
+### 230-250
 
-20 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_potion_54.jpg)Major Healing Potion](https://classic.wowhead.com/item=13446) - 40 Golden Sansam, 20 Mountain Silversage, 20 Crystal Vial
+**[Elixir of Detect Undead](https://wowclassicdb.com/item/9154) x20 (1x Arthas’ Tears + 1x Crystal Vial)**
 
-The recipe is sold by [Evie Whirlbrew](https://classic.wowhead.com/npc=11188) in Winterspring at Everlook. It's a limited supply recipe, so you have to wait if someone bought it before you. (or buy it from the Auction House)
+While this potion isn’t terribly useful, it’s good for gaining you 20 good skill levels during the final stretch to reach 300. Craft 20 elixirs of detect undead so you can reach 250 Alchemy.
 
-  
-Congratulations on reaching 300! Please [send feedback](/contact) about the guide if you think there are parts I could improve, or you found typos, errors, wrong material numbers!
+### 250-265
 
-[(Return to Top)](#top)
+**[Elixir of Greater Agility](https://wowclassicdb.com/item/9187) x15 (1x Sungrass + 1x Goldthorn + 1x Crystal Vial)**
+
+Your combat elixirs are becoming quite powerful now, with the elixir of greater agility being no different. You can increase your agility for 25 for an hour, requiring level 38 to use. This makes them excellent for lower leveled characters and twinks. Craft 15 elixirs of greater agility so you can reach the next milestone of 265 Alchemy.
+
+### 265-285
+
+**[Superior Mana Potion](https://wowclassicdb.com/item/13443) x20 (2x Sungrass + 2x Blindweed + 1x Crystal Vial)**
+
+Once you reach 265 Alchemy, potions become more expensive to craft. You’ll want to make 40 superior mana potions to reach 285 Alchemy, but each potion requires two Sungrass and Blindweed each! Once you finish though, you’re just one batch of potions away from 300..
+
+### 285-300
+
+**[Major Healing Potion](https://wowclassicdb.com/item/13446) x20~ (2x Golden Sansam +1x Mountain Silversage + 1x Crystal Vial)**
+
+You’re now in the final stretch, needing just 15 more skill ups to reach 300 Alchemy! You’ll want to create major healing potions now, but they’ll become yellow around 295 Alchemy. You still need to make them even though they’re a yellow recipe, which means you might not get a skill up every level. It might take you only 15 potions to reach 300 if you’re lucky, but bank on needing to make at least 20.
+
+Congratulations, you’re now a master Alchemist! Enjoy your new capped crafting profession, and use it create useful elixirs for yourself and your friends! Or use it turn a nice profit when paired with herbalism, eliminating any need to purchase herbs for your recipes.
+
+Crafting Flasks
+---------------
+
+Once you’ve maxed out your alchemy skill, you’ll probably want to take advantage of one of the greatest benefits: flask crafting. Unfortunately, there is an added requirement to the creation of flasks unlike other alchemy recipes. If you want to craft a flask, you’ll need to do it directly at an alchemy lab!
+
+There are only two alchemy labs in the game. There is one in Scholomance, but there is also another in Blackwing Lair. Both of these alchemy labs will require you to form a group so you can kill the enemies guarding one, but this is often a weekly event that raiding guilds will schedule so flasks can be created for the entire raid group.
+
+If you are going on a trip to Scholomance or Blackwing Lair, make sure you bring all the materials necessary for crafting your flasks with you! If you don’t have them in your inventory, you’ll just have wasted a trip as you can’t craft them!
+
+
+#### About the Author
+
+![](https://www.warcrafttavern.com/wp-content/uploads/tml-avatars/jaina-proudmoore-world-of-warcraft-1.jpg)
+
+#### Furious
+
+If I'm not working or spending time with the family I'm probably gaming. Some of my favorite recent games I've played are Far Cry 5, World of Warcraft Classic, and 7 Days to Die.
+
+
+

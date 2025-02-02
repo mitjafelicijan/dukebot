@@ -1,252 +1,355 @@
-# Classic WoW Blacksmithing Leveling Guide 1-300
+# WoW Classic Blacksmithing Guide 1 – 300
 
-![](/images/icons/professions/blacksmithing.png)This Classic WoW Blacksmithing Leveling Guide will show you the fastest and easiest way to level your Blacksmithing skill up from 1 to 300.
 
-Blacksmithing uses a lot of ores, so I recommend leveling this profession together with Mining because you will need a lot of gold if you want to buy everything from the Auction House. Check out my [Classic Mining leveling guide 1-300](/classic/mining-leveling-guide-classic-wow) if you want to level Mining.
 
-I recommend trying [Zygor's 1-60 Leveling Guide](/recommends/zygor-classic-leveling) if you are still leveling your character or just starting a new alt. It will help you to reach level 60 a lot faster.
+* Author: [Furious](https://www.warcrafttavern.com/author/furious/)
+* Date: December 1, 2018
+* Updated: November 30, 2023
+* Expansion: [WoW Classic](/wow-classic/)
 
-#### Blacksmithing guide sections:
 
-*   [Materials Required](#materials)
-*   [Blacksmithing Trainers](#classic-blacksmithing-trainers)
-*   [Apprentice #1-75](#Apprentice)
-*   [Journeyman #75-125](#Journeyman)
-*   [Expert #125-225](#Expert)
-*   [Artisan #225-300](#Artisan)
-*   [Blacksmithing Specializations](#specializations)
+### Contents
 
-#### Approximate Materials Required:
+1. [Trainer Locations](#ftoc-trainer-locations)
+2. [Tips and Tricks](#ftoc-tips-and-tricks)
+   1. [Anvil and Hammer](#ftoc-anvil-and-hammer)
+   2. [Paired Profession](#ftoc-paired-profession)
+   3. [Armorsmith or Weaponsmith](#ftoc-armorsmith-or-weaponsmith)
+   4. [Power Crystals](#ftoc-power-crystals)
+   5. [Mithril Spurs](#ftoc-mithril-spurs)
+3. [Total Materials You’ll Need](#ftoc-total-materials-youll-need)
+4. [1-75 (Apprentice)](#ftoc-1-75-apprentice)
+   1. [1-25](#ftoc-1-25)
+   2. [25-65](#ftoc-25-65)
+   3. [65-75](#ftoc-65-75)
+5. [75-150 (Journeyman)](#ftoc-75-150-journeyman)
+   1. [75-100](#ftoc-75-100)
+   2. [100-105](#ftoc-100-105)
+   3. [105-125](#ftoc-105-125)
+   4. [125-150](#ftoc-125-150)
+6. [150-225 (Expert)](#ftoc-150-225-expert)
+   1. [150-155](#ftoc-150-155)
+   2. [155-165](#ftoc-155-165)
+   3. [165-185](#ftoc-165-185)
+   4. [185-200](#ftoc-185-200)
+   5. [200-210](#ftoc-200-210)
+   6. [210-215](#ftoc-210-215)
+   7. [215-225](#ftoc-215-225)
+7. [225-300 (Artisan)](#ftoc-225-300-artisan)
+   1. [225-235](#ftoc-225-235)
+   2. [235-250](#ftoc-235-250)
+   3. [250-260](#ftoc-250-260)
+   4. [260-275](#ftoc-260-275)
+   5. [275-295](#ftoc-275-295)
+   6. [295-300](#ftoc-295-300)
+8. [Blacksmithing Specialization Quests](#ftoc-blacksmithing-specialization-quests)
+   1. [Armorsmithing Quest Guide](#ftoc-armorsmithing-quest-guide)
+   2. [Weaponsmithing Quest Guide](#ftoc-weaponsmithing-quest-guide)
 
-*   150x [![](https://wow.zamimg.com/images/wow/icons/small/inv_stone_06.jpg)Rough Stone](https://classic.wowhead.com/item=2835)
-*   150x [![](https://wow.zamimg.com/images/wow/icons/small/inv_ingot_02.jpg)Copper Bar](https://classic.wowhead.com/item=2840)
-*   95x [![](https://wow.zamimg.com/images/wow/icons/small/inv_stone_09.jpg)Coarse Stone](https://classic.wowhead.com/item=2836)
-*   5x [![](https://wow.zamimg.com/images/wow/icons/small/inv_ingot_01.jpg)Silver Bar](https://classic.wowhead.com/item=2842)
-*   140x [![](https://wow.zamimg.com/images/wow/icons/small/inv_ingot_bronze.jpg)Bronze Bar](https://classic.wowhead.com/item=2841)
-*   105x [![](https://wow.zamimg.com/images/wow/icons/small/inv_stone_12.jpg)Heavy Stone](https://classic.wowhead.com/item=2838)
-*   5x [![](https://wow.zamimg.com/images/wow/icons/small/inv_ingot_03.jpg)Gold Bar](https://classic.wowhead.com/item=3577)
-*   230x [![](https://wow.zamimg.com/images/wow/icons/small/inv_ingot_iron.jpg)Iron Bar](https://classic.wowhead.com/item=3575)
-*   35x [![](https://wow.zamimg.com/images/wow/icons/small/inv_potion_12.jpg)Green Dye](https://classic.wowhead.com/item=2605) - Sold by Tailoring and Leatherworking supply vendors
-*   190x [![](https://wow.zamimg.com/images/wow/icons/small/inv_ingot_steel.jpg)Steel Bar](https://classic.wowhead.com/item=3859) - Made from 190 [![](https://wow.zamimg.com/images/wow/icons/small/inv_ingot_iron.jpg)Iron Bar](https://classic.wowhead.com/item=3575) + 190 Coal if you have Mining. The Blacksmithing Supply vendor sells the Coal.
-*   520x [![](https://wow.zamimg.com/images/wow/icons/small/inv_stone_10.jpg)Solid Stone](https://tbc.wowhead.com/item=7912) - If you can't get the [![](https://wow.zamimg.com/images/wow/icons/small/inv_scroll_06.jpg)Plans: Mithril Spurs](https://tbc.wowhead.com/item=7989) from the Auction House, you will only need 120 Solid Stone, but depending on which recipes you can get, you will need more Mithril, Thorium, or Leathers. You can check the 260-270 part for more details.
-*   60x [![](https://wow.zamimg.com/images/wow/icons/small/inv_fabric_mageweave_01.jpg)Mageweave Cloth](https://classic.wowhead.com/item=4338) (you will need another 90x if you can't get the Mithril Spurs recipe)
-*   250x [![](https://wow.zamimg.com/images/wow/icons/small/inv_ingot_06.jpg)Mithril Bar](https://classic.wowhead.com/item=3860)
-*   20x [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_stonetablet_07.jpg)Dense Stone](https://classic.wowhead.com/item=12365)
-*   730x [![](https://wow.zamimg.com/images/wow/icons/small/inv_ingot_07.jpg)Thorium Bar](https://classic.wowhead.com/item=12359)
-*   30x [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_gem_ruby_02.jpg)Star Ruby](https://classic.wowhead.com/item=7910)
-*   5x [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_gem_crystal_02.jpg)Aquamarine](https://classic.wowhead.com/item=7909)
+[SoD Blacksmithing Guide](https://www.warcrafttavern.com/wow-classic/guides/season-of-discovery-sod-blacksmithing-guide/)
 
-If you have Mining and want to farm the ores, please see my farming guides:
+Blacksmithing is a core crafting profession that is used to create weapons and mail/plate armor. This makes it a popular choice for any melee attackers and more specifically plate armor users like warriors and paladins. You’ll need a lot of materials to get all the way to 300, but the recipes you’ll unlock access to once you get there are well worth it!
 
-[![](https://wow.zamimg.com/images/wow/icons/small/inv_ore_copper_01.jpg)Copper Ore farming](/classic/copper-ore-farming) [![](https://wow.zamimg.com/images/wow/icons/small/inv_ore_tin_01.jpg)Tin Ore farming](/classic/tin-ore-farming) [![](https://wow.zamimg.com/images/wow/icons/small/inv_ore_iron_01.jpg)Iron Ore farming](/classic/iron-ore-farming) [![](https://wow.zamimg.com/images/wow/icons/small/inv_ore_mithril_02.jpg)Mithril Ore farming](/classic/mithril-ore-farming) [![](https://wow.zamimg.com/images/wow/icons/small/inv_ore_thorium_02.jpg)Thorium Ore farming](/classic/thorium-ore-farming)
+To level up your blacksmithing, you’ll primarily need metal bars and stones. Both of these come from [mining](https://www.warcrafttavern.com/guides/wow-classic-mining-guide-1-300/). Whenever you mine a mineral vein, you’ll often receive ore and stone. The ore needs to be smelted into bars before it can be used in blacksmithing recipes.
 
-### Playing Cataclysm Classic?
+Blacksmithing is primarily sought after for the strong weapons and armor that you can craft at higher levels. While it does allow you to make some of the strongest weapons in the game (like the [Sulfuron Hammer](https://wowclassicdb.com/item/17193) which is needed to make the legendary [Hand of Ragnaros](https://wowclassicdb.com/item/17182)), it also allows for a few other things that players can benefit from.
 
-Use my [Cataclysm Blacksmithing leveling Guide](/cataclysm/blacksmithing-leveling-guide-cataclysm-classic) instead. There are changes to trainers and recipes, so you should use the Cataclysm guide for the 1-300 part.
+Through blacksmithing, a player can create boot spurs, which increase mounted speed. A blacksmith can also create sharpening stones, which will enhance the weapon of a melee attacker. These help to make the profession a staple in the landscape of WoW Classic.
 
-## Classic Blacksmithing Trainers
+Trainer Locations
+-----------------
 
-You can learn Classic Blacksmithing from any of these NPCs below, but you have to reach level 5 before you can learn it.
+Finding a trainer for blacksmithing is fairly simple and you’ll only need to leave a major city once you need higher level training. As with any other profession, you can ask any guard in a major city where a specific profession trainer is, and they’ll mark your map with where that trainer is located. For your convenience, Alliance players should train in Ironforge, while Horde players should train in Orgrimmar. Here’s where you can find each level of blacksmithing trainer:
 
-Just click on any of these links below to see the trainer's exact location. You can also walk up to a guard in any city and ask where the Blacksmithing trainer is, then it will be marked with a red flag on your map.
+* **Apprentice (1-75) –** Any blacksmithing trainer. For Alliance: Stormwind, Ironforge, or Darnassus. For Horde: Orgrimmar, Undercity, or Thunder Bluff.
+* **Journeyman (75-150) –** Keep training where you went previously. That includes any major city again.
+* **Expert (150-225) –** At this point, you’ll be required to go to a specific city for expert blacksmithing training. Alliance players will need to train with [Bengus Deepforge](https://wowclassicdb.com/npc/4258) in Ironforge, while Horde players need to train with [Saru Steelfury](https://wowclassicdb.com/npc/3355) in Orgrimmar.
+* **Artisan (225-300) –** Both factions will need to leave the comforts of home for the last leg of your training. Fortunately, your trainer isn’t *too* far away. You’ll need to go to Booty Bay and speak with [Brikk Keencraft](https://wowclassicdb.com/npc/2836) for all of your artisan blacksmithing needs.
 
-**Horde trainers:**
+Tips and Tricks
+---------------
 
-*   [![](/images/icons/horde.png)Ug'thok](/npc/ugthok-blacksmithing-trainer-classic) in Orgrimmar.
-*   [![](/images/icons/horde.png)Basil Frye](/npc/basil-frye-blacksmithing-trainer-classic) in Undercity.
-*   [![](/images/icons/horde.png)Thrag Stonehoof](/npc/thrag-stonehoof-blacksmithing-trainer-classic) in Thunder Bluff
-*   [![](/images/icons/horde.png)Dwukk](/npc/dwukk-blacksmithing-trainer-classic) in Durotar.
+The skill of blacksmithing is fairly straightforward, but there are still a few things you’ll need to keep in mind. These tips aren’t at all requirements, but they will certainly help you reach 300 faster if you take them into consideration.
 
-**Alliance trainers:**
+### Anvil and Hammer
 
-*   [![](/images/icons/alliance.png)Groum Stonebeard](/npc/groum-stonebeard-blacksmithing-trainer-classic) in Ironforge.
-*   [![](/images/icons/alliance.png)Dane Lindgren](/npc/dane-lindgren-blacksmithing-trainer-classic) in Stormwind City.
-*   [![](/images/icons/alliance.png)Delfrum Flintbeard](/npc/delfrum-flintbeard-blacksmithing-trainer-classic) in Darkshore
-*   [![](/images/icons/alliance.png)Smith Argus](/npc/smith-argus-blacksmithing-trainer-classic) in Elwyn Forest.
-*   [![](/images/icons/alliance.png)Tognus Flintfire](/npc/tognus-flintfire-blacksmithing-trainer-classic) in Dun Morogh.
+In order to make any blacksmithing recipe, you’ll need a blacksmithing hammer. You can easily purchase this from any blacksmithing vendor. In addition, you’ll need to also by physically located at a blacksmithing anvil. You can find these in several places around Azeroth, but you’ll undoubtedly find them near your blacksmithing trainer.
 
-## Leveling Classic Blacksmithing
+### Paired Profession
 
-### 1 - 75
+While you can pair any profession with blacksmithing, your best bet is to choose [mining](https://www.warcrafttavern.com/guides/wow-classic-mining-guide-1-300/). Blacksmithing requires the use of smelted bars. Only those with the mining skill have the ability to smelt bars. Furthermore, only miners have the ability to actually collect metal ores for mineral veins throughout the world.This gives you the best opportunity to provide yourself with crafting materials without having to purchase them.
 
-*   **1 - 30**  
-    40x [![](https://wow.zamimg.com/images/wow/icons/small/inv_stone_sharpeningstone_01.jpg)Rough Sharpening Stone](https://classic.wowhead.com/item=2862) - 40 Rough Stone
+### Armorsmith or Weaponsmith
 
-*   **30 - 65**  
-    55x [![](https://wow.zamimg.com/images/wow/icons/small/inv_stone_grindingstone_01.jpg)Rough Grinding Stone](https://classic.wowhead.com/item=3470) - 110 Rough Stone
-    
-    Save 10 Rough Grinding Stones.
-    
+At higher levels of blacksmithing, you can choose between armorsmithing or weaponsmithing. As their names suggest, armorsmithing focuses on armor while weaponsmithing prioritizes weapons. Both of them do require completion of a quest, but doing so will allow you to make *potentially* less expensive recipes later on.
 
-*   **65 - 75**  
-    25x [![](https://wow.zamimg.com/images/wow/icons/small/inv_stone_sharpeningstone_02.jpg)Coarse Sharpening Stone](https://classic.wowhead.com/item=2863) - 25 Coarse Stone
+### Power Crystals
 
-## Blacksmithing Journeyman
+Once you start reaching 260 blacksmithing and above, you’ll notice that many recipes call for the use of some color of power crystal. These power crystals are located in the dinosaur-infested region of Un’Goro Crater. The colors you’ll primarily need are blue and yellow. Fortunately, you **don’t** need to have mining in order to loot these power crystals. You’ll just need to fend off the vicious creatures in the surrounding area!
 
-You can only train Blacksmithing past 75 if you learn Journeyman Blacksmithing. Not every Blacksmithing trainer will teach you this skill, you have to find an Expert Blacksmith. (Requires level 10)
+### Mithril Spurs
 
-You can learn Journeyman Blacksmithing from these NPCs below:
+Once you reach 235 blacksmithing, the quickest and easiest way to continue leveling is via the [Mithril Spurs recipe](https://wowclassicdb.com/item/7989). This is a tradeable recipe, but it is an *extremely* rare world drop. This means that it is often quite expensive, upwards of hundreds of gold on the auction house. If you are fortunate enough to loot one, you’ll be thrilled with the cheap material cost of just 4x [Mithril Bars](https://wowclassicdb.com/item/3860) and 3x [Solid Grinding Stone](https://wowclassicdb.com/item/7966), which can take you all the way to 275 blacksmithing!
 
-**Horde trainers:**
+Total Materials You’ll Need
+---------------------------
 
-*   [![](/images/icons/horde.png)Snarl](/npc/snarl-blacksmithing-trainer-classic) in Orgrimmar.
-*   [![](/images/icons/horde.png)James Van Brunt](/npc/james-van-brunt-blacksmithing-trainer-classic) in Undercity.
-*   [![](/images/icons/horde.png)Karn Stonehoof](/npc/karn-stonehoof-blacksmithing-trainer-classic) in Thunder Bluff
+This is a rough idea of the total materials needed to go from 1-300 in blacksmithing. You may need more or less depending upon your skill-up luck, but this should give you a good idea. You’ll swap out some thorium bars for mithril ones if you follow the armorsmith or weaponsmith path, but other than that, you shouldn’t need anything else. Here’s what you’ll need to get to 300 blacksmithing:
 
-**Alliance trainers:**
+* [Silver Bar](https://wowclassicdb.com/item/2842) – x5
+* [Gold Bar](https://wowclassicdb.com/item/3577) – x5
+* [Bronze Bar](https://wowclassicdb.com/item/2841) – x180
+* [Iron Bar](https://wowclassicdb.com/item/3575) – x200
+* [Steel Bar](https://wowclassicdb.com/item/3859) – x380
+* [Mithril Bar](https://wowclassicdb.com/item/3860)\* – x150
+* [Thorium Bar](https://wowclassicdb.com/item/12359)\* – x720
+* [Rough Stone](https://wowclassicdb.com/item/2835) – x170
+* [Coarse Stone](https://wowclassicdb.com/item/2836) – x160
+* [Heavy Stone](https://wowclassicdb.com/item/2838) – x180
+* [Solid Stone](https://wowclassicdb.com/item/7912) – x80
+* [Dense Stone](https://wowclassicdb.com/item/12365) – x20
+* [Star Ruby](https://wowclassicdb.com/item/7910) – x25
+* [Green Dye](https://wowclassicdb.com/item/2605) – x30
+* [Mageweave Cloth](https://wowclassicdb.com/item/4338) – x90
+* [Blue Power Crystal](https://wowclassicdb.com/item/11184)\* – x60
+* [Yellow Power Crystal](https://wowclassicdb.com/item/11188) – x20
 
-*   [![](/images/icons/alliance.png)Rotgath Stonebeard](/npc/rotgath-stonebeard-blacksmithing-trainer-classic) in Ironforge.
-*   [![](/images/icons/alliance.png)Therum Deepforge](/npc/therum-deepforge-blacksmithing-trainer-classic) in Stormwind City.
+\* = *If you follow the armorsmith or weaponsmith path, you’ll need 120x less [Thorium Bars](https://wowclassicdb.com/item/12359) and 40x less [Blue Power Crystals](https://wowclassicdb.com/item/11184). However, armorsmiths will need 160x more [Mithril Bars](https://wowclassicdb.com/item/3860) and 20x [Core of Earth](https://wowclassicdb.com/item/7075). Weaponsmiths will need 120x more [Mithril Bars](https://wowclassicdb.com/item/3860) and 40x of any combination of [Core of Earth](https://wowclassicdb.com/item/7075), [Heart of Fire](https://wowclassicdb.com/item/7077), or [Breath of Wind](https://wowclassicdb.com/item/7081).*
 
-### 75 - 125
+1-75 (Apprentice)
+-----------------
 
-*   **75 - 90**  
-    35x [![](https://wow.zamimg.com/images/wow/icons/small/inv_stone_grindingstone_02.jpg)Coarse Grinding Stone](https://classic.wowhead.com/item=3478) - 70 Coarse Stone
-    
-    Save the Coarse Grinding Stones.
-    
-    If you didn't reach 90 by making these, you can still continue to the next step, but you will need a few more Copper Bars, or make a few more Coarse Grinding Stones.
-    
+Mats Required:
 
-*   **90 - 100**  
-    10x [![](https://wow.zamimg.com/images/wow/icons/small/inv_belt_03.jpg)Runed Copper Belt](https://classic.wowhead.com/item=2857) - 100 Copper Bar
+* [Rough Stone](https://wowclassicdb.com/item/2835) – x170
+* [Coarse Stone](https://wowclassicdb.com/item/2836) – x20
 
-*   **100 - 105**  
-    5x [![](https://wow.zamimg.com/images/wow/icons/small/inv_staff_01.jpg)Silver Rod](https://classic.wowhead.com/item=6338) - 5 Silver Bar, 10 Rough Grinding Stone
-    
-    You can also skip this part and just make Runed Copper Belt if you don't have any Silver Bar.
-    
+### 1-25
 
-*   **105 - 110**  
-    5x [![](https://wow.zamimg.com/images/wow/icons/small/inv_belt_03.jpg)Runed Copper Belt](https://classic.wowhead.com/item=2857) - 50 Copper Bar
+**[Rough Sharpening Stone](https://wowclassicdb.com/item/2862) x50 (1x Rough Stone)**
 
-*   **110 - 125**  
-    15x [![](https://wow.zamimg.com/images/wow/icons/small/inv_pants_03.jpg)Rough Bronze Leggings](https://classic.wowhead.com/item=2865) - 90 Bronze Bar
+Welcome to your first blacksmithing recipe! This one uses stone. You’ll need to make enough to reach 25 blacksmithing, although it probably won’t take you a full 50 crafts.
 
-## Blacksmithing Expert
+### 25-65
 
-You can only train Blacksmithing past 150 if you learn Expert Blacksmithing. Not every Blacksmithing trainer will teach you this skill, you have to find an Artisan Blacksmith. (Requires level 20)
+**[Rough Grinding Stone](https://wowclassicdb.com/item/3470) x60 (2x Rough Stone)**
 
-Horde players can learn Expert Blacksmithing from [![](/images/icons/horde.png)Saru Steelfury](/npc/saru-steelfury-blacksmithing-trainer-classic) in Orgrimmar and Alliance players can learn it from [![](/images/icons/alliance.png)Bengus Deepforge](/npc/bengus-deepforge-blacksmithing-trainer-classic) in Ironforge.
+Once you’ve reached 25 blacksmithing, you get to make… more stone! This time you’ll make rough grinding stones until you hit 65 blacksmithing, which should take less than 60 grinding stones.
 
-### 125 - 225
+### 65-75
 
-*   **125 - 140**  
-    35x [![](https://wow.zamimg.com/images/wow/icons/small/inv_stone_grindingstone_03.jpg)Heavy Grinding Stone](https://classic.wowhead.com/item=3486) - 105 Heavy Stone
-    
-    Keep the Heavy Grinding Stones. Make this one up to 150, if Heavy Stone is cheap.
-    
+**[Coarse Sharpening Stone](https://wowclassicdb.com/item/2863) x20 (1x Coarse Stone)**
 
-*   **140 - 150**  
-    10x [![](https://wow.zamimg.com/images/wow/icons/small/inv_bracer_07.jpg)Patterned Bronze Bracers](https://classic.wowhead.com/spell=2672) - 50 Bronze Bar, 20 Coarse Grinding Stone
+To cap off the end of your apprentice blacksmithing journey, you’ll make yet another stone recipe, but this time you need coarse stone. Craft coarse sharpening stone until 75, and then pick up journeyman blacksmithing from your trainer.
 
-*   **150 - 155**  
-    5x [![](https://wow.zamimg.com/images/wow/icons/small/inv_staff_10.jpg)Golden Rod](https://classic.wowhead.com/item=11128) - 5 Gold Bar, 10 Coarse Grinding Stone
+75-150 (Journeyman)
+-------------------
 
-[![](https://wow.zamimg.com/images/wow/icons/small/inv_potion_12.jpg)Green Dye](https://classic.wowhead.com/item=2605) is sold by Tailoring and Leatherworking supply vendors.
+Mats Required:
 
-*   **155 - 165**  
-    10x [![](https://wow.zamimg.com/images/wow/icons/small/inv_pants_05.jpg)Green Iron Leggings](https://classic.wowhead.com/spell=3506) - 80 Iron Bar, 10 Heavy Grinding Stone, 10 Green Dye
+* [Coarse Stone](https://wowclassicdb.com/item/2836) – x80
+* [Silver Bar](https://wowclassicdb.com/item/2842) – x5
+* [Rough Grinding Stone](https://wowclassicdb.com/item/3470)\* – x10
+* [Bronze Bar](https://wowclassicdb.com/item/2841) – x180
+* [Heavy Stone](https://wowclassicdb.com/item/2838) – x180
 
-*   **165 - 190**  
-    25x [![](https://wow.zamimg.com/images/wow/icons/small/inv_bracer_06.jpg)Green Iron Bracers](https://classic.wowhead.com/spell=3501) - 150 Iron Bar, 25 Green Dye
+\* = will be crafted during this guide.
 
-*   **190 - 200**  
-    10x [![](https://wow.zamimg.com/images/wow/icons/small/inv_bracer_10.jpg)Golden Scale Bracers](https://classic.wowhead.com/spell=7223) - 50 Steel Bar, 20 Heavy Grinding Stone
-    
-    Alliance players should keep 6 of these. You might need them if you choose Armorsmithing.
-    
+### 75-100
 
-*   **200 - 210**  
-    30x [![](https://wow.zamimg.com/images/wow/icons/small/inv_stone_grindingstone_04.jpg)Solid Grinding Stone](https://classic.wowhead.com/spell=9920) - 120 Solid Stone
-    
-    Keep at least 10 of these for the 225-235 part.
-    
-    Keep all of them if you bought the [![](https://wow.zamimg.com/images/wow/icons/small/inv_scroll_06.jpg)Plans: Mithril Spurs](https://classic.wowhead.com/item=7989), and you will also have to make another 100. (you can make them later too)
-    
+**[Coarse Grinding Stone](https://wowclassicdb.com/item/3478) x80 (2x Coarse Stone)**
 
-*   **210 - 225**  
-    15x [![](https://wow.zamimg.com/images/wow/icons/small/inv_gauntlets_27.jpg)Heavy Mithril Gauntlet](https://classic.wowhead.com/spell=9928) - 90 Mithril Bar, 60 Mageweave Cloth
+Now you’ll want to make coarse grinding stones. A lot of them to be exact. Your goal is 100 blacksmithing, so it certainly might not take a full 80 stones to get there.
 
-## Blacksmithing Artisan
+### 100-105
 
-You can only train Blacksmithing past 225 if you learn Artisan Blacksmithing. Not every Blacksmithing trainer will teach you this skill, you have to find a Master Blacksmith. (Requires level 35)
+**[Silver Rod](https://wowclassicdb.com/item/6338) x5 (1x Silver Bar + 2x Rough Grinding Stone)**
 
-You can learn Artisan Blacksmithing from [Brikk Keencraft](/npc/classic/brikk-keencraft) in Booty Bay in Stranglethorn Vale.
+For the next recipe, you’ll actually make something other than stone! This time you’ll make silver rods, which does require the use of Silver Bars. Consider selling these on the auction house later, as enchanters need these to make special rods.
 
-### Blacksmithing Specializations
+### 105-125
 
-At Blacksmithing skill 200 and character level 40, you can specialize in Armorsmithing or Weaponsmithing to craft powerful weapons or armors. (Choosing one is optional, you don't need it to level Blacksmithing. You can choose later too)
+**[Rough Bronze Leggings](https://wowclassicdb.com/item/2865) x30 (6x Bronze Bar)**
 
-For information on how to become an Armorsmith or a Weaponsmith, please see my separate guides:
+Now you get to actually make your first piece of equipment! You’ll want to make a bunch of rough bronze leggings, 30 or so should do the trick. After doing so, feel free to pick up expert blacksmithing.
 
- [![](https://wow.zamimg.com/images/wow/icons/small/inv_chest_plate04.jpg) Armorsmith Quest](/classic/armorsmith-specialization-wow-classic) [![](https://wow.zamimg.com/images/wow/icons/small/inv_sword_25.jpg) Weaponsmith Quest](/classic/weaponsmith-specialization-wow-classic)
+### 125-150
 
-If you are not sure which one to choose yet, you can check out the list I put together to see what each specialization can craft:
+**[Heavy Grinding Stone](https://wowclassicdb.com/item/3486) x60 (3x Heavy Stone)**
 
-[List of Weaponsmith and Armorsmith recipes](/classic/weaponsmith-armorsmith-recipes-wow-classic)
+If you were missing the stone recipes, don’t fret because you’ll be making one again! At this point you’ve graduated to heavy stone, so make heavy grinding stones until you reach the halfway mark to 300!
 
-### 225 - 235
+150-225 (Expert)
+----------------
 
-10x [![](https://wow.zamimg.com/images/wow/icons/small/inv_helmet_03.jpg)Steel Plate Helm](https://classic.wowhead.com/spell=9935) - 140 Steel Bar, 10 Solid Grinding Stone
+Mats Required:
 
-Horde players should keep 4 of these. You might need them if you choose Armorsmithing.
+* [Gold Bar](https://wowclassicdb.com/item/3577) – x5
+* [Coarse Grinding Stone](https://wowclassicdb.com/item/3478)\* – 10x
+* [Iron Bar](https://wowclassicdb.com/item/3575) – x200
+* [Heavy Grinding Stone](https://wowclassicdb.com/item/3486)\* – x50
+* [Green Dye](https://wowclassicdb.com/item/2605) – x30
+* [Steel Bar](https://wowclassicdb.com/item/3859) – x240
+* [Solid Stone](https://wowclassicdb.com/item/7912) – x80
+* [Solid Grinding Stone](https://wowclassicdb.com/item/7966)\* – x10
 
-### 235 - 250
+\* = will be crafted during this guide.
 
-Buy [![](https://wow.zamimg.com/images/wow/icons/small/inv_scroll_06.jpg)Plans: Mithril Spurs](https://classic.wowhead.com/item=7989) from the Auction House.
+### 150-155
 
-20x [![](https://wow.zamimg.com/images/wow/icons/small/ability_rogue_sprint.jpg)Mithril Spurs](https://classic.wowhead.com/spell=9964) - 80 Mithril Bar, 60 Solid Grinding Stone
+**[Golden Rod](https://wowclassicdb.com/item/11128) x5 (1x Gold Bar + 2x Coarse Grinding Stone)**
 
-**Alternative recipe**
+Remember the silver rods you made earlier? You’re going to do that again, but this time with gold! Make 5 of these golden bad boys and definitely consider selling these too.
 
-15x [![](https://wow.zamimg.com/images/wow/icons/small/inv_helmet_35.jpg)Mithril Coif](https://classic.wowhead.com/spell=9961) - 150 Mithril Bar, 90 Mageweave Cloth
+### 155-165
 
-### 250 - 260
+**[Green Iron Leggings](https://wowclassicdb.com/item/3842) x10 (8x Iron Bar + 1x Heavy Grinding Stone + 1x Green Dye)**
 
-20x [![](https://wow.zamimg.com/images/wow/icons/small/inv_stone_sharpeningstone_05.jpg)Dense Sharpening Stone](https://classic.wowhead.com/item=12404) - 20 Dense Stone
+Who said blacksmithing couldn’t be fashionable? They obviously haven’t seen these green iron leggings! Now you too can make your own pair, or ten! You can find green dye at a tailoring vendor!
 
-### 260 - 270
+### 165-185
 
-20x [![](https://wow.zamimg.com/images/wow/icons/small/ability_rogue_sprint.jpg)Mithril Spurs](https://classic.wowhead.com/spell=9964) - 80 Mithril Bar, 60 Solid Grinding Stone
+**[Green Iron Bracers](https://wowclassicdb.com/item/3835) x20 (6x Iron Bar + 1x Green Dye)**
 
-#### **Alternative recipes**
+Yes, this fabulous green armor also comes in bracers! Make 20 of them so you can get to 185 blacksmithing, good enough to make your next recipe!
 
-If you couldn't get the [![](https://wow.zamimg.com/images/wow/icons/small/inv_scroll_06.jpg)Plans: Mithril Spurs](https://classic.wowhead.com/item=7989) recipe, then you can try to buy one of these: [![](https://wow.zamimg.com/images/wow/icons/small/inv_scroll_06.jpg)Plans: Thorium Bracers](https://classic.wowhead.com/item=12684), [![](https://wow.zamimg.com/images/wow/icons/small/inv_scroll_06.jpg)Plans: Thorium Belt](https://classic.wowhead.com/item=12683), [![](https://wow.zamimg.com/images/wow/icons/small/inv_scroll_06.jpg)Plans: Radiant Belt](https://classic.wowhead.com/item=12685).
+### 185-200
 
-*   10x [![](https://wow.zamimg.com/images/wow/icons/small/inv_bracer_13.jpg)Thorium Bracers](https://classic.wowhead.com/spell=16644) - 120 Thorium Bar, 40 Blue Power Crystal
-*   10x [![](https://wow.zamimg.com/images/wow/icons/small/inv_belt_30.jpg)Thorium Belt](https://classic.wowhead.com/spell=16643) - 120 Thorium Bar, 40 Red Power Crystal
-*   10x [![](https://wow.zamimg.com/images/wow/icons/small/inv_belt_11.jpg)Radiant Belt](https://classic.wowhead.com/spell=16645) - 100 Thorium Bar, 20 Heart of Fire
+**[Golden Scale Bracers](https://wowclassicdb.com/item/6040) x15 (5x Steel Bar + 2x Heavy Grinding Stone)**
 
-#### Recipes from the trainer
+If you thought green looked good, just wait till you see these bracers in gold! You’ll make quite a few of these, but make just enough to get to 200 so you can benefit from the cheaper skill ups coming from solid stone.
 
-You can make these if you cannot get any of the recipes above.
+### 200-210
 
-*   **260-265**  
-    8x [![](https://wow.zamimg.com/images/wow/icons/small/inv_boots_plate_01.jpg)Heavy Mithril Boots](https://www.wowhead.com/spell=9968) - 112 Mithril Bar, 32 Thick Leather
+**[Solid Grinding Stone](https://wowclassicdb.com/item/7966) x20 (4x Solid Stone)**
 
-*   **265-270**  
-    5x [![](https://wow.zamimg.com/images/wow/icons/small/inv_belt_01.jpg)Imperial Plate Belt](https://classic.wowhead.com/spell=16647) - 110 Thorium Bar, 30 Rugged Leather, 5 Aquamarine
+Now that you’ve reached 200 blacksmithing, you’ll want to switch to solid grinding stone because it is much cheaper. It will go grey at 210, so take full advantage of it until then.
 
-You can get the recipe from the [![](/images/icons/quest_start.gif)Imperial Plate Belt](https://tbc.wowhead.com/quest=7653) (req lvl 50.) quest in Tanaris from [Derotain Mudsipper](https://tbc.wowhead.com/npc=14567). You will need 20x [![](https://wow.zamimg.com/images/wow/icons/small/inv_ingot_07.jpg)Thorium Bar](https://tbc.wowhead.com/item=12359) to complete the quest.
+### 210-215
 
-**The next two recipes are also from the same NPC**, so make sure to bring at least 80x [![](https://wow.zamimg.com/images/wow/icons/small/inv_ingot_07.jpg)Thorium Bar](https://tbc.wowhead.com/item=12359) with you to buy all 3 recipes!
+**[Golden Scale Bracers](https://wowclassicdb.com/item/6040) x5 (5x Steel Bar + 2x Heavy Grinding Stone)**
 
-### 270 - 295
+Now you’ll want to go back to to the golden scale bracers so you’re high enough level for the next recipe. 5 of them should be enough to get you there.
 
-25x [![](https://wow.zamimg.com/images/wow/icons/small/inv_bracer_19.jpg)Imperial Plate Bracers](https://classic.wowhead.com/spell=16649) - 500 Thorium Bar, 25 Star Ruby
+### 215-225
 
-You can get the [![](https://wow.zamimg.com/images/wow/icons/small/inv_scroll_03.jpg)Plans: Imperial Plate Bracers](https://classic.wowhead.com/item=12690) after you complete the [![](/images/icons/quest_start.gif)Imperial Plate Bracer](https://classic.wowhead.com/quest=7655) (req lvl 50.) quest in Tanaris for [Derotain Mudsipper](https://classic.wowhead.com/npc=14567). The quest requires 20 [![](https://wow.zamimg.com/images/wow/icons/small/inv_ingot_07.jpg)Thorium Bar](https://classic.wowhead.com/item=12359).
+**[Steel Plate Helm](https://wowclassicdb.com/item/7922) x10 (14x Steel Bar +1x Solid Grinding Stone)**
 
-The recipe will be yellow for the last 5 points, so you might have to make a few more.
+At this point, you’ll be making steel plate helms! These are actually a popular helm piece, being one of the first plate helm pieces available to classes that wear plate. You’ll make a good number of these, so consider selling them to recoup any losses!
 
-### 295 - 300
+225-300 (Artisan)
+-----------------
 
-5x [![](https://wow.zamimg.com/images/wow/icons/small/inv_boots_plate_01.jpg)Imperial Plate Boots](https://classic.wowhead.com/spell=16657) - 170 Thorium Bar, 5 Star Ruby, 5 Aquamarine
+Mats Required: *These assume you follow the standard path that doesn’t require you to be an armorsmith or weaponsmith.*
 
-You can get the recipe from the same NPC as the previous one, but this quest requires 40 [![](https://wow.zamimg.com/images/wow/icons/small/inv_ingot_07.jpg)Thorium Bar](https://classic.wowhead.com/item=12359).
+* [Steel Bar](https://wowclassicdb.com/item/3859) – x140
+* [Solid Grinding Stone](https://wowclassicdb.com/item/7966)\* – x10
+* [Mithril Bar](https://wowclassicdb.com/item/3860) – x150
+* [Mageweave Cloth](https://wowclassicdb.com/item/4338) – x90
+* [Dense Stone](https://wowclassicdb.com/item/12365) – x20
+* [Thorium Bar](https://wowclassicdb.com/item/12359) + 20 for Quest – x700
+* [Blue Power Crystal](https://wowclassicdb.com/item/11184) – x60
+* [Star Ruby](https://wowclassicdb.com/item/7910) – x25
+* [Yellow Power Crystal](https://wowclassicdb.com/item/11188) – x20
 
-  
-Congratulations on reaching 300! Please [send feedback](/contact) about the guide if you think there are parts I could improve, or you found typos, errors, wrong material numbers!
+*– Armorsmiths and weaponsmiths require 120x less Thorium Bars and 40x less Blue Power Crystals.* 
 
-[(Return to Top)](#top)
+*– Armorsmiths additionally require 160x more Mithril Bars and 20x Core of Earth.*
+
+*– Weaponsmiths additionally require 120x more Mithril Bars and 40x Core of Earth, Heart of Fire, OR Breath of Wind.*
+
+\* = will be crafted during this guide.
+
+### 225-235
+
+**[Steel Plate Helm](https://wowclassicdb.com/item/7922) x10 (14x Steel Bar +1x Solid Grinding Stone)**
+
+Keep making steel plate helms! If it is made of plate, it must do a better job of protecting you right? Nobody really knows, but don’t let that stop you from crafting these plate helms.
+
+### 235-250
+
+**[Mithril Coif](https://wowclassicdb.com/item/7931) x15 (10x Mithril Bar + 6x Mageweave Cloth**
+
+*If you have the recipe:* ***[Mithril Spurs](https://wowclassicdb.com/item/7989) (4x Mithril Bar + 3x Solid Grinding Stone)\****
+
+If you’re one of the luckier (or richer) players in the game, you can take advantage of the cheap Mithril Spurs recipe. It is a rare world drop that creates [Mithril Spurs](https://wowclassicdb.com/item/7969), boot spurs that increase mounted speed. You probably don’t have access to that recipe though, so you can also make mithril coifs. These have a significantly larger material cost, but there isn’t a better alternative if you can’t make the spurs.
+
+### 250-260
+
+**[Dense Sharpening Stone](https://wowclassicdb.com/item/12404) x20 (1x Dense Stone)**
+
+Once you’ve hit 250, you get to make your final stone recipe! Make about 20 dense sharpening stones to make your way to 260 blacksmithing!
+
+### 260-275
+
+**[Thorium Bracers](https://wowclassicdb.com/item/12408) / [Belt](https://wowclassicdb.com/item/12406) x15 (12x Thorium Bar + 4x Blue Power Crystal)**
+
+At this point you’ll start to hit the really expensive part of leveling your blacksmithing. You’ll begin crafting thorium equipment, which requires several thorium bars and power crystals from Un’Goro Crater. You should only need to make 15, after which your skill level should be high enough for the penultimate recipe in this guide!
+
+### 275-295
+
+[**Imperial Plate Bracers**](https://wowclassicdb.com/item/12425) **x20 (20x Thorium Bar + 1x Star Ruby)**
+
+Once you’ve hit 275 blacksmithing, you’ve arrived at a giant wall. You’ll need a whopping 400 Thorium Bars to reach 295, which will take you quite a while to farm. Silithus and Winterspring are great places to farm thorium. Either way, once you have your mountain of thorium, head to Gadgetzan in Tanaris.
+
+Once there, you’ll need to speak with the Thorium Brotherhood representative, [Derotain Mudsipper](https://wowclassicdb.com/npc/14567). He’ll give you a simple hand-in entry quest, after which you can obtain quests to unlock Imperial plate armor pieces. The quests themselves are extremely simple, requiring you to hand in thorium bars in exchange for each recipe. The recipe for Imperial Plate Bracers cost 20 Thorium Bars. Don’t forget you’ll also need 20x Star Ruby to make these bracers.
+
+### 295-300
+
+**[Thorium Boots](https://wowclassicdb.com/item/12409) / [Helm](https://wowclassicdb.com/item/12410) x5 (24x Thorium Bar + 1x Star Ruby + 4x Yellow Power Crystal)**
+
+For your final recipe, you’ll make another piece of thorium! This time it’ll cost you an insane 24x Thorium Bars per piece, but fortunately you only need to make 5. Once you’ve collected all your materials, make your boots or helm to reach 300 blacksmithing. Congratulations on your brand new level 300 blacksmithing skill!
+
+Blacksmithing Specialization Quests
+-----------------------------------
+
+Once you’ve reached at least 200 in blacksmithing, you now have the option to specialize. Blacksmiths can specialize in either armorsmithing or weaponsmithing. Both specializations do require completion of a quest, so both will be separated into their own section below.
+
+### Armorsmithing Quest Guide
+
+The quest for armorsmithing is very similar to weaponsmithing, but you’ll need to complete a lengthy questline if you wish to craft the needed armor pieces yourself. That questline is the Mithril Order questline, which will be covered below. It should be noted, that while you can technically choose to specialize once you’ve reached a blacksmithing of 200, you must be at at *least* 215 to start the Mithril Order questline.  Unlike weaponsmithing, there are no sub-specialties within armorsmithing.
+
+Here’s what you need to know for the Mithril Order questline and armorsmithing quest:
+
+1. The only main difference between the two factions is the initial quest during the [Mithril Order](https://wowclassicdb.com/quest/2760) questline. Everything else is fairly similar, so only that portion will have different instructions depending on faction.
+2. If you’re Alliance: Talk to [Hank the Hammer](https://wowclassicdb.com/npc/7798) in Stormwind to pick up the quest: [*The Origins of Smithing*](https://wowclassicdb.com/quest/2758). The quest isn’t difficult, but you’ll need to come up with 8 [Golden Scale Bracers](https://wowclassicdb.com/item/6040). If you plan on crafting them, this will set you back just 30 [Steel Bars](https://wowclassicdb.com/item/3859) and 12 [Solid Grinding Stones](https://wowclassicdb.com/item/7966) (yeah, the Alliance have it easier here). After turning them in, you can then pick up the next quest: [*In Search of Galvan*](https://wowclassicdb.com/quest/2759). This will send you to [McGavan](https://wowclassicdb.com/npc/7794) in Booty Bay.
+3. If you’re Horde: Speak to [Aturk the Anvil](https://wowclassicdb.com/npc/7792) in Orgrimmar to accept the quest: [*The Old Ways*](https://wowclassicdb.com/quest/2756). This quest is very easy, but you’ll need to collect 4 [Steel Breastplates](https://wowclassicdb.com/item/7963) and 4 [Steel Plate Helms](https://wowclassicdb.com/item/7922) to turn it in. This will cost you 120 [Steel Bars](https://wowclassicdb.com/item/3859) and 16 [Solid Grinding Stones](https://wowclassicdb.com/item/7966) if you craft them yourself. After handing in the armor, you can pick up the next quest: [*Booty Bay or Bust!*](https://wowclassicdb.com/quest/2757) from [Ox](https://wowclassicdb.com/npc/7793) nearby. This is very straightforward, requiring you to speak with [McGavan](https://wowclassicdb.com/npc/7794) in Booty Bay.
+4. At this point, both factions will have spoken to McGavan in Booty Bay. Instructions are identical for both factions now. After turning in the initial quest sending you there, pick up the following quest: [*The Mithril Order*](https://wowclassicdb.com/quest/2760). Now you’ll actually need to find [Galvan the Ancient](https://wowclassicdb.com/npc/7802), who can be located up north by Zul’Gurub.
+5. Upon turning that quest in, you’ll unlock three quests, which all must be completed. Much like the previous quests, these are very simple as well. Instead of handing in armor though, you’ll be handing in metal bars directly. To complete all three quests, you’ll need 120 [Mithril Bars](https://wowclassicdb.com/item/3860), 40 [Iron Bars](https://wowclassicdb.com/item/3575), 5 [Truesilver Bars](https://wowclassicdb.com/item/6037), and 4 [Citrine](https://wowclassicdb.com/item/3864).
+6. To complete: [*Smelt On, Smelt Off*](https://wowclassicdb.com/quest/2761), you’ll need 40 [Iron Bars](https://wowclassicdb.com/item/3575) and 40 [Mithril Bars](https://wowclassicdb.com/item/3860).
+7. To complete: [*The Art of the Imbue*](https://wowclassicdb.com/quest/2763), you’ll need 40 [Mithril Bars](https://wowclassicdb.com/item/3860) and 4 [Citrine](https://wowclassicdb.com/item/3864).
+8. To complete: [*The Great Silver Deceiver*](https://wowclassicdb.com/quest/2762), you’ll need 40 [Mithril Bars](https://wowclassicdb.com/item/3860) and 5 [Truesilver Bars](https://wowclassicdb.com/item/6037).
+9. Once you’ve completed *Smelt On, Smelt Off, The Art of the Imbue, and The Great Silver Deceiver*, you can pick up the next quest: [*Galvan’s Finest Pupil*](https://wowclassicdb.com/quest/2764). This will send you to [Trenton Lighthammer](https://wowclassicdb.com/npc/7804) in Gadgetzan, Tanaris.
+10. After speaking with Trenton, you’ll now unlock another three quests. You’ll need to complete them all, but this is the last set you’ll need to craft all items for the armorsmithing quest! For all three quests, you’ll need 2 [Mithril Coifs](https://wowclassicdb.com/item/7931), 1 [Ornate Mithril Shoulder](https://wowclassicdb.com/item/7928), 2 [Heavy Mithril Boots](https://wowclassicdb.com/item/7933), 1 [Ornate Mithril Pants](https://wowclassicdb.com/item/7926), 2 [Heavy Mithril Breastplate](https://wowclassicdb.com/item/7930), and 1 [Ornate Mithril Gloves](https://wowclassicdb.com/item/7927). If you plan to craft these, that will cost you a total of 114 [Mithril Bars](https://wowclassicdb.com/item/3860), 3 [Truesilver Bars](https://wowclassicdb.com/item/6037), 18 [Mageweave Cloth](https://wowclassicdb.com/item/4338), 14 [Thick Leather](https://wowclassicdb.com/item/4304), 2 [Solid Grinding Stone](https://wowclassicdb.com/item/7966), and 1 [Aquamarine](https://wowclassicdb.com/item/7909).
+11. To complete: [*A Good Head On Your Shoulders*](https://wowclassicdb.com/quest/2771), you’ll need 2 [Mithril Coifs](https://wowclassicdb.com/item/7931) and 1 [Ornate Mithril Shoulder](https://wowclassicdb.com/item/7928).
+12. To complete: [*The World At Your Feet*](https://wowclassicdb.com/quest/2772), you’ll need 2 [Heavy Mithril Boots](https://wowclassicdb.com/item/7933) and 1 [Ornate Mithril Pants](https://wowclassicdb.com/item/7926).
+13. To complete: *[The Mithril Kid](https://wowclassicdb.com/quest/2773),* you’ll need 2 [Heavy Mithril Breastplates](https://wowclassicdb.com/item/7930) and 1 [Ornate Mithril Gloves](https://wowclassicdb.com/item/7927).
+14. After finishing *A Good Head On Your Shoulders, The World At Your Feet,* and *The Mithril Kid*, you can pick up the final quest: [*Did You Lose This?*](https://wowclassicdb.com/quest/3321) This requires you to finish watching Trenton work, after which you’ll be able to create every piece needed for the armorsmithing quest!
+15. Now that you can actually make everything, accept the quest: [*The Art of the Armorsmith*](https://wowclassicdb.com/quest/5301) from [Grumnus Steelshaper](https://wowclassicdb.com/npc/5164) in Ironforge or [Okothos Ironrager](https://wowclassicdb.com/npc/11177) in Orgrimmar.
+16. The quest requires 4 [Ornate Mithril Helms](https://wowclassicdb.com/item/7937), 2 [Ornate Mithril Boots](https://wowclassicdb.com/item/7936), and 1 [Ornate Mithril Breastplate](https://wowclassicdb.com/item/7935). If you plan on making them, this will cost you 108 [Mithril Bars](https://wowclassicdb.com/item/3860), 18 [Truesilver Bars](https://wowclassicdb.com/item/6037), 4 [Black Pearls](https://wowclassicdb.com/item/7971), 7 [Solid Grinding Stone](https://wowclassicdb.com/item/7966), 8 [Thick Leather](https://wowclassicdb.com/item/4304), 2 [Aquamarine](https://wowclassicdb.com/item/7909), 1 [Heart of Fire](https://wowclassicdb.com/item/7077).
+17. Whether you craft or purchase them, hand in your armor to become an armorsmith! Congratulations!
+
+### Weaponsmithing Quest Guide
+
+One thing that also separates weaponsmithing from armorsmithing is that it is actually made of three subspecialties. These include axesmithing, hammersmithing, and swordsmithing, one for each type of weapon variety. Despite being a unique specialty, picking a specific weapon to specialize in **does not** require completion of a quest (ie, if you want to be an axesmith, you only need to complete the initial weaponsmithing quest).
+
+Here’s the actual requirements for the weaponsmithing quest:
+
+1. The quest is actually very simple, requiring you to hand in 12 weapons to the blacksmithing trainer in your faction’s main city. Unlike the armorsmithing quest, the recipes to make these weapons are easily obtainable without completing a questline.
+2. Alliance players will pick their quest up from [Ironus Coldsteel](https://wowclassicdb.com/npc/11146) in Ironforge, while Horde players get theirs from [Borgosh Corebender](https://wowclassicdb.com/npc/11178) in Orgrimmar. You’ll need 4 [Moonsteel Broadswords](https://wowclassicdb.com/item/3853), 4 [Massive Iron Axes](https://wowclassicdb.com/item/3855), 2 [Heavy Mithril Axes](https://wowclassicdb.com/item/7941), and 2 [Big Black Maces](https://wowclassicdb.com/item/7945).
+3. The recipes for Heavy Mithril Axes and Big Black Maces are learned from your blacksmithing trainer, but the other two must be purchased from vendors in Stranglethorn Vale.
+   * The recipe for Moonsteel Broadsword is sold by [Zarena Cromwind](https://wowclassicdb.com/npc/2482) in Booty Bay.
+   * The recipe for Massive Iron Axe is sold by [Jaquilina Dramet](https://wowclassicdb.com/npc/2483) at Nesingwary’s Camp in Stranglethorn Vale.
+4. If you plan on crafting all weapons yourself (you can buy them and hand them in instead), you’ll need: 56 [Mithril Bars](https://wowclassicdb.com/item/3860), 32 [Steel Bars](https://wowclassicdb.com/item/3859), 56 [Iron Bars](https://wowclassicdb.com/item/3575), 16 [Gold Bars](https://wowclassicdb.com/item/3577), 16 [Heavy Grinding Stone](https://wowclassicdb.com/item/3486), 4 [Solid Grinding Stone](https://wowclassicdb.com/item/7966), 12 [Lesser Moonstone](https://wowclassicdb.com/item/1705), 4 [Citrine](https://wowclassicdb.com/item/3864), 2 [Black Pearls](https://wowclassicdb.com/item/7971), 8 [Shadowgems](https://wowclassicdb.com/item/1210), 28 [Heavy Leather](https://wowclassicdb.com/item/4234), 4 [Thick Leather](https://wowclassicdb.com/item/4304), and 16 [Strong Flux](https://wowclassicdb.com/item/3466).
+5. Whether you craft or purchase them, turn in all 12 weapons to complete your weaponsmithing quest! Congratulations!
+
+#### About the Author
+
+![](https://www.warcrafttavern.com/wp-content/uploads/tml-avatars/jaina-proudmoore-world-of-warcraft-1.jpg)
+
+#### Furious
+
+If I'm not working or spending time with the family I'm probably gaming. Some of my favorite recent games I've played are Far Cry 5, World of Warcraft Classic, and 7 Days to Die.
+
+
+

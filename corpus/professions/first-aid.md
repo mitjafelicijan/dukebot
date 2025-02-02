@@ -1,163 +1,183 @@
-# Classic WoW First Aid Leveling Guide 1 - 300
+# WoW Classic First Aid Guide – 1 to 300
 
-![](https://www.wow-professions.com/images/icons/professions/first-aid.png)This Classic WoW First Aid leveling guide will show you the fastest way how to get your First Aid skill up from 1 to 300.
 
-Since First Aid does not take up one of the two profession slots, every player can get it without penalty. It's recommended to all classes as a way of reducing downtime between battles, by quickly restoring health after combat. It is highly recommended for melee classes without healing abilities.
 
-I recommend using [Zygor's 1-60 Leveling Guide](/recommends/zygor-classic-leveling) if you are still leveling your character or you just started a new alt. The guide is in a small window on your main screen in-game, all the detail that you need to complete the quests are included. You’ll never have to switch back to a website, or even the in-game main map to see where you have to go or what’s next.
+* Author: [Furious](https://www.warcrafttavern.com/author/furious/)
+* Date: December 3, 2018
+* Updated: January 9, 2025
+* Expansion: [WoW Classic](/wow-classic/)
 
-#### Table of contents:
 
-*   [Shopping List](#mats)
-*   [Classic First Aid Trainers](#trainers)
-*   [1-75 #Apprentice](#1)
-*   [75-150 #Journeyman](#75)
-*   [150-225#Expert](#150)
-*   [225-300 #Artisan](#225)
+### Contents
 
-## Shopping List
+1. [Horde Guide](#ftoc-horde-guide)
+   1. [Levels 1 – 125](#ftoc-levels-1-125)
+   2. [Levels 126 – 225](#ftoc-levels-126-225)
+   3. [Triage Quest](#ftoc-triage-quest)
+   4. [Levels 226 – 300](#ftoc-levels-226-300)
+2. [Alliance Guide](#ftoc-alliance-guide)
+   1. [Levels 1 – 125](#ftoc-levels-1-125-2)
+   2. [Levels 126 – 225](#ftoc-levels-126-225-2)
+   3. [Triage Quest](#ftoc-triage-quest-2)
+   4. [Levels 226 – 300](#ftoc-levels-226-300-2)
+3. [What Each Bandage Heals](#ftoc-what-each-bandage-heals)
 
-This is the list of the approximate number of cloths needed to level first aid to 300.
+[SoD First Aid Guide](https://www.warcrafttavern.com/wow-classic/guides/season-of-discovery-sod-first-aid-guide/)
 
-*   170x [![](https://wow.zamimg.com/images/wow/icons/small/inv_fabric_linen_01.jpg)Linen Cloth](https://classic.wowhead.com/item=2589)
-*   180x [![](https://wow.zamimg.com/images/wow/icons/small/inv_fabric_wool_01.jpg)Wool Cloth](https://classic.wowhead.com/item=2592)
-*   150x [![](https://wow.zamimg.com/images/wow/icons/small/inv_fabric_silk_01.jpg)Silk Cloth](https://classic.wowhead.com/item=4306)
-*   120x [![](https://wow.zamimg.com/images/wow/icons/small/inv_fabric_mageweave_01.jpg)Mageweave Cloth](https://classic.wowhead.com/item=4338)
-*   80x [![](https://wow.zamimg.com/images/wow/icons/small/inv_fabric_purplefire_01.jpg)Runecloth](https://classic.wowhead.com/item=14047)
+A power leveling first aid guide from level 1 to 300 for World of Warcraft Classic. This guide covers both alliance and horde.
 
-## Classic First Aid Trainer Locations
+Horde Guide
+-----------
 
-**Alliance trainers:**
+Minimum materials needed
 
-*   [![](/images/icons/alliance.png)Shaina Fuller](https://classic.wowhead.com/npc=2327) in Stormwind City.
-*   [![](/images/icons/alliance.png)Dannelor](https://classic.wowhead.com/npc=4211) at the Craftsmen's Terrace in Darnassus.
-*   [![](/images/icons/alliance.png)Nissa Firestone](https://classic.wowhead.com/npc=5150) near the Great Forge in Ironforge.
-*   [![](/images/icons/alliance.png)Michelle Belle](https://classic.wowhead.com/npc=2329) at Goldshire in Elwynn Forest.
-*   [![](/images/icons/alliance.png)Doctor Gustaf VanHowzen](https://classic.wowhead.com/npc=12939) at Theramore in Dustwallow Marsh.
-*   [![](/images/icons/alliance.png)Byancie](https://classic.wowhead.com/npc=6094) at Dolanaar in Teldrassil.
-*   [![](/images/icons/alliance.png)Fremal Doohickey](https://classic.wowhead.com/npc=3181) at Menethil Harbor in Wetlands.
-*   [![](/images/icons/alliance.png)Thamner Pol](https://classic.wowhead.com/npc=2326) Kharanos in Dun Morogh.
+* 150 x [Linen Cloth](https://wowclassicdb.com/item/2589)
+* 125 x [Wool Cloth](https://wowclassicdb.com/item/2592)
+* 140 x [Silk Cloth](https://wowclassicdb.com/item/4306)
+* 90 x [Mageweave Cloth](https://wowclassicdb.com/item/4338)
+* 70 x [Runecloth](https://wowclassicdb.com/item/14047)
 
-**Horde trainers:**
+#### Levels 1 – 125
 
-*   [![](/images/icons/horde.png)Arnok](https://classic.wowhead.com/npc=3373) at the Valley of Spirits in Orgrimmar.
-*   [![](/images/icons/horde.png)Pand Stonebinder](https://classic.wowhead.com/npc=2798) at the Spirit Rise in Thunder Bluff.
-*   [![](/images/icons/horde.png)Mary Edras](https://classic.wowhead.com/npc=4591) at the Rogues' Quarter in Undercity.
-*   [![](/images/icons/horde.png)Doctor Gregory Victor](https://classic.wowhead.com/npc=12920) at Hammerfall in Arathi Highlands.
-*   [![](/images/icons/horde.png)Nurse Neela](https://classic.wowhead.com/npc=5759) at Brill in Tirisfal Glades.
-*   [![](/images/icons/horde.png)Rawrk](https://classic.wowhead.com/npc=5943) at Razor Hill in Durotar.
-*   [![](/images/icons/horde.png)Vira Younghoof](https://classic.wowhead.com/npc=5939) at Bloodhoof Village in Mulgore.
+* Step 1: Learn First Aid
+* Make [Linen Bandages](https://wowclassicdb.com/item/1251) from 1 to 40.
+* Train [Heavy Linen Bandages](https://wowclassicdb.com/item/2581).
+* Make [Heavy Linen Bandages](https://wowclassicdb.com/item/2581) from 41 to 50.
+* Train **Journeyman First Aid**.
+* Make [Heavy Linen Bandages](https://wowclassicdb.com/item/2581) from 51 to 80.
+* Train [Wool Bandages](https://wowclassicdb.com/item/3530) and [Anti-Venom](https://wowclassicdb.com/item/6452).
+* Make [Wool Bandages](https://wowclassicdb.com/item/3530) from 81 to 115.
+* Train [Heavy Wool Bandage](https://wowclassicdb.com/item/3531).
+* Make [Heavy Wool Bandages](https://wowclassicdb.com/item/3531) from 116 to 125.
 
-## Classic First Aid Leveling
+#### Levels 126 – 225
 
-### 1 - 75
+* Purchase the following books from [Balai Lok’Wein](https://wowclassicdb.com/npc/13476) in Brackenwall Village, Dustwallow Marsh.
+  + [Expert First Aid](https://wowclassicdb.com/item/16084)
+  + [Manual: Heavy Silk Bandage](https://wowclassicdb.com/item/16112)
+  + [Manual: Mageweave Bandage](https://wowclassicdb.com/item/16113)
+* Use [the Expert First Aid book](https://wowclassicdb.com/item/16084) to raise your skill cap to 225
+* Make [Heavy Wool Bandages](https://wowclassicdb.com/item/3531) from 126 to 150.
+* Go to First Aid Trainer and learn [Silk Bandage](https://wowclassicdb.com/item/6450).
+* Make [Silk Bandages](https://wowclassicdb.com/item/6450) from 151 to 180.
+* Use [the Manual: Heavy Silk Bandage book](https://wowclassicdb.com/item/16112) to learn that skill
+* Make [Heavy Silk Bandages](https://wowclassicdb.com/item/6451) from 181 to 210.
+* Use [the Manual: Mageweave Bandage book](https://wowclassicdb.com/item/16113) to learn that skill
+* Make [Mageweave Bandages](https://wowclassicdb.com/item/8544) from 211 to 225.
 
-*   **1 - 40**  
-    50 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_bandage_15.jpg)Linen Bandage](https://classic.wowhead.com/spell=3275) - 50 Linen cloth
+**Make sure that you are at least level 35 prior to completing the next step.**
 
-*   **40 - 75**  
-    45 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_bandage_18.jpg)Heavy Linen Bandage](https://classic.wowhead.com/spell=3276) - 90 Linen Cloth
+Speak to [Arnok](https://wowclassicdb.com/npc/3373) in The Valley of Spirits in Orgrimmar. He will send you to [Doctor Gregory Victor](https://wowclassicdb.com/npc/12920) in Hammerfall, Arathi Highlands and he will give you a quest called [Triage](https://wowclassicdb.com/quest/6624). You can go straight to Doctor Gregory Victor without first speaking to Arnok in Orgimmar.
 
-## Journeyman First Aid
+Before you go to Hammerfall, it’s best to have at least **75 Mageweave cloth** and **70 Runecloth** as this will save you coming back to see the Doctor.
 
-Visit your trainer and learn Journeyman First Aid.
+#### Triage Quest
 
-### 75 - 150
+For this quest you have to save 15 patients before 6 of them die. You will be in a room with 6 cots, stand in the middle so you are close to all of them. You might need to change the camera angle and zoom out to see them all.
 
-*   **75 - 80**  
-    15 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_bandage_18.jpg)Heavy Linen Bandage](https://classic.wowhead.com/spell=3276) - 30 Linen Cloth
+Use (“V”) to show all the patients status on screen. You will have special triage bandages (add them to your action bar/hot key) which should be applied to Critically injured, then Badly injured, and then injured. Once you started treating a patient do not interupt, just finish treating that patient before moving on to another patient. You should select your next patient before your are finished with the first one, then all you have to do is hit you hot key to start the next one.
 
-*   **80 -115**  
-    60 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_bandage_14.jpg)Wool Bandage](https://classic.wowhead.com/spell=3277) - 60 Wool Cloth
+You MUST use the special bandages you are given or you WILL FAIL.
 
-*   **115 - 150**  
-    60 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_bandage_17.jpg)Heavy Wool Bandage](https://classic.wowhead.com/spell=3278) - 120 Wool Cloth
+#### Levels 226 – 300
 
-## Training First Aid above 150 - Expert First Aid
+* Make [Mageweave Bandages](https://wowclassicdb.com/item/8544) from 226 to 240.
+* Speak to [Doctor Gregory Victor](https://wowclassicdb.com/npc/12920) in Hammerfall, Arathi Highlands to learn [Heavy Mageweave Bandages](https://wowclassicdb.com/item/8545).
+* Make [Heavy Mageweave Bandages](https://wowclassicdb.com/item/8545) from 241 to 260.
+* Speak to [Doctor Gregory Victor](https://wowclassicdb.com/npc/12920) in Hammerfall, Arathi Highlands to learn [Runecloth Bandages](https://wowclassicdb.com/item/14529).
+* Make [Runecloth Bandages](https://wowclassicdb.com/item/14529) from 261 to 290.
+* Speak to [Doctor Gregory Victor](https://wowclassicdb.com/npc/12920) in Hammerfall, Arathi Highlands to learn [Heavy Runecloth Bandages](https://wowclassicdb.com/item/14530).
+* Make [Heavy Runecloth Bandages](https://wowclassicdb.com/item/14530) from 291 to 300.
 
-**Learn the Silk Bandage recipe from your trainer before you leave!**
+You can now work on getting honored with Argent Dawn and then buy [Powerful Anti-Venom](https://wowclassicdb.com/item/19442) from the quartermaster which cures level 60 poisons.
 
-You can train Classic First Aid past 150 with the [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_book_08.jpg)Expert First Aid - Under Wraps](https://classic.wowhead.com/item=16084) book. 
+Alliance Guide
+--------------
 
-The book is sold by [![](/images/icons/alliance.png)Deneb Walker](https://classic.wowhead.com/npc=2805) (Alliance) in Arathi Highlands, and by [![](/images/icons/horde.png)Balai Lok'Wein](https://classic.wowhead.com/npc=13476) (Horde) in Dustwallow Marsh. These vendors also sell the next two bandage recipes so make sure to buy all three! If you are low level then you can just buy the book at the Auction House instead of wasting lots of time running to the vendor. (or if you are lazy like me)
+Minimum materials needed
 
-Buy the following three books:
+* 150 x [Linen Cloth](https://wowclassicdb.com/item/2589)
+* 125 x [Wool Cloth](https://wowclassicdb.com/item/2592)
+* 140 x [Silk Cloth](https://wowclassicdb.com/item/4306)
+* 90 x [Mageweave Cloth](https://wowclassicdb.com/item/4338)
+* 70 x [Runecloth](https://wowclassicdb.com/item/14047)
 
-*   [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_book_08.jpg)Expert First Aid - Under Wraps](https://classic.wowhead.com/item=16084)
-*   [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_book_03.jpg)Manual: Heavy Silk Bandage](https://classic.wowhead.com/item=16112)
-*   [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_book_03.jpg)Manual: Mageweave Bandage](https://classic.wowhead.com/item=16113).
+#### Levels 1 – 125
 
-Right-click on the [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_book_08.jpg)Expert First Aid - Under Wraps](https://classic.wowhead.com/item=16084) in your bag, then you can continue making Silk Bandages. (you have to go back and visit your first aid trainer if you didn't learn the Silk Bandage recipe)
+* Learn First Aid.
+* Make [Linen Bandages](https://wowclassicdb.com/item/1251) from 1 to 40.
+* Train [Heavy Linen Bandages](https://wowclassicdb.com/item/2581).
+* Make [Heavy Linen Bandages](https://wowclassicdb.com/item/2581) from 41 to 50.
+* Train **Journeyman First Aid**.
+* Make [Heavy Linen Bandages](https://wowclassicdb.com/item/2581) from 51 to 80.
+* Train [Wool Bandages](https://wowclassicdb.com/item/3530) and [Anti-Venom](https://wowclassicdb.com/item/6452).
+* Make [Wool Bandages](https://wowclassicdb.com/item/3530) from 81 to 115.
+* Train [Heavy Wool Bandage](https://wowclassicdb.com/item/3531).
+* Make [Heavy Wool Bandages](https://wowclassicdb.com/item/3531) from 116 to 125.
 
-### 150 - 225
+#### Levels 126 – 225
 
-*   **150 - 180**
-    
-    50 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_bandage_01.jpg)Silk Bandage](https://classic.wowhead.com/spell=7928) - 50 Silk Cloth
-    
+* Purchase the following books from [Deneb Walker](https://wowclassicdb.com/npc/2805) in Stromgarde Keep, Arathi Highlands.
+  + [Manual: Heavy Silk](https://wowclassicdb.com/item/16112)
+  + [Manual: Mageweave Bandage](https://wowclassicdb.com/item/16113)
+  + Directions for finding Deneb Walker
+    - Walk into Stromgarde and keep turning right. It’s in the Alliance part of the keep so you should not have to fight. Once you go over a small bridge the guy who sells the book for level 150-225 is standing under a lamp post in an area surrounded by plants.
+* Make [Heavy Wool Bandages](https://wowclassicdb.com/item/3531) from 126 to 150.
+* Go to First Aid Trainer and learn [Silk Bandage](https://wowclassicdb.com/item/6450).
+* Make [Silk Bandages](https://wowclassicdb.com/item/6450) from 151 to 180.
+* Use [the Manual: Heavy Silk book](https://wowclassicdb.com/item/16112) to learn the skill.
+* Make [Heavy Silk Bandages](https://wowclassicdb.com/item/6451) from 181 to 210.
+* Use [the Manual: Mageweave Bandage book](https://wowclassicdb.com/item/16113) to learn the skill.
+* Make [Mageweave Bandages](https://wowclassicdb.com/item/8544) from 211 to 225.
 
-*   **180 - 210**  
-    Use the book [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_book_03.jpg)Manual: Heavy Silk Bandage](https://classic.wowhead.com/item=16112) to learn how to make Heavy Silk Bandage.
-    
-    50 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_bandage_02.jpg)Heavy Silk Bandage](https://classic.wowhead.com/spell=7929) - 100 Silk Cloth
-    
+**Make sure that you are at least level 35 prior to completing the next step.**  
+Now speak to [Nissa Firestone](https://wowclassicdb.com/npc/5150) in Ironforge. She will send you to [Doctor Gustaf VanHowzen](https://wowclassicdb.com/npc/12939) in Theramore, Dustwallow Marsh and the Doctor will give you a quest called [Triage](https://wowclassicdb.com/quest/6624). Note that you can go straight to Doctor Gustaf VanHowzen without first speaking to Nissa Firestone
 
-*   **210 - 225**  
-    Use the book [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_book_03.jpg)Manual: Mageweave Bandage](https://classic.wowhead.com/item=16113) to learn how to make Mageweave Bandage.
-    
-    30 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_bandage_19.jpg)Mageweave Bandage](https://classic.wowhead.com/spell=10840) - 30 Mageweave Cloth
-    
+Before you go to Theramore, make sure you have at least 75 x Mageweave and 70 x Runecloth as this will save you coming back to see the Doctor.
 
-## Training First Aid above 225 - Artisan First Aid
+#### Triage Quest
 
-You can train Classic First Aid above 225 and learn Artisan First Aid by completing the Triage quests.
+For this quest you have to save 15 patients before 6 of them die. You will be in a room with 6 cots, stand in the middle so you are close to all of them. You might need to change the camera angle and zoom out to see them all.
 
-Upon reaching a First Aid skill of 225 and level 35, you can start the [![](/images/icons/quest_start.gif)![](/images/icons/alliance.png)Alliance Trauma](https://classic.wowhead.com/quest=6625) / [![](/images/icons/quest_start.gif)![](/images/icons/horde.png)Horde Trauma](https://classic.wowhead.com/quest=6623) quest (optional). These quests will lead you to [![](/images/icons/quest_start.gif)![](/images/icons/alliance.png)Triage](https://classic.wowhead.com/quest=6624) / [![](/images/icons/quest_start.gif)![](/images/icons/horde.png)Triage](https://classic.wowhead.com/quest=6622) in Dustwallow Marsh or Arathi Highlands.
+Use (“V”) to show all the patients status on screen. You will have special triage bandages (add them to your action bar/hot key) which should be applied to Critically injured, then Badly injured, and then injured. Once you started treating a patient do not interupt, just finish treating that patient before moving on to another patient. You should select your next patient before your are finished with the first one, then all you have to do is hit you hot key to start the next one.
 
-**Bring everything you need in order to skill up to 290**, as you will need to learn several recipes later from the quest giver NPCs [![](/images/icons/alliance.png)Doctor Gustaf VanHowzen](https://classic.wowhead.com/npc=12939) / [![](/images/icons/horde.png)Doctor Gregory Victor](https://classic.wowhead.com/npc=12920), so bring around 100 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_fabric_mageweave_01.jpg)Mageweave Cloth](https://classic.wowhead.com/item=4338) and 70 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_fabric_purplefire_01.jpg)Runecloth](https://classic.wowhead.com/item=14047) with you.
+You MUST use the special bandages you are given or you WILL FAIL.
 
-You can find [![](/images/icons/alliance.png)Doctor Gustaf VanHowzen](https://classic.wowhead.com/npc=12939) in Dustwallow Marsh at Theramore Isle. He is inside the main keep outside of which all the guards are practicing, NOT the giant tower. Go inside and hook a right, then a left and he's in that corner room. [![](/images/icons/horde.png)Doctor Gregory Victor](https://classic.wowhead.com/npc=12920) is in Arathi Highlands at Hammerfall, walk in, and turn left. He's inside the building to the left just past the entrance.
+#### Levels 226 – 300
 
-### How to complete the Triage Quest
+* Make [Mageweave Bandages](https://wowclassicdb.com/item/8544) from 226 to 240.
+* Speak to [Doctor Gustaf VanHowzen](https://wowclassicdb.com/npc/12939) in Theramore, Dustwallow Marsh to learn [Heavy Mageweave Bandages](https://wowclassicdb.com/item/8545).
+* Make [Heavy Mageweave Bandages](https://wowclassicdb.com/item/8545) from 241 to 260.
+* Speak to [Doctor Gustaf VanHowzen](https://wowclassicdb.com/npc/12939) in Theramore, Dustwallow Marsh to learn [Runecloth Bandages](https://wowclassicdb.com/item/14529).
+* Make [Runecloth Bandages](https://wowclassicdb.com/item/14529) from 261 to 290.
+* Speak to [Doctor Gustaf VanHowzen](https://wowclassicdb.com/npc/12939) in Theramore, Dustwallow Marsh to learn [Heavy Runecloth Bandages](https://wowclassicdb.com/item/14530).
+* Make [Heavy Runecloth Bandages](https://wowclassicdb.com/item/14530) from 291 to 300.
 
-A few tips for you to make the quest easier:
+You can now work on getting honored with Argent Dawn and then buy [Powerful Anti-Venom](https://wowclassicdb.com/item/19440) from the quartermaster which cures level 60 poisons.
 
-*   Press CTRL + V to activate the health bar over the heads of the patients for easy health monitoring or tick "Show NPC names" in Interface Options.
-*   Pull your camera out to third person so you can see as much of the room as possible.
-*   Put the triage bandages the doctor gave you in your action bar. Do not use your own. You can also bind it to any key.
-*   Position yourself in the middle of the room.
-*   When you see another patient, left-click on them to pre-select them, and as soon as your current heal has finished click the bandages in your action bar and the pre-selected one will begin to heal. Saves valuable seconds this way.
-*   Once you saved 15, turn in the quest immediately. I failed it on my druid because I waited, and 6 patients died while I waited which turned 'completed' to 'failed'.
+\*If your having trouble getting [Runecloth](https://wowclassicdb.com/item/14047) because your only level 35ish, then just continue to make [Heavy Mageweave Bandages](https://wowclassicdb.com/item/8545) all the way to 300. I’m not sure how much extra [Mageweave](https://wowclassicdb.com/item/4338) you’ll need for that, but I’m guessing its going to be about 140-150 extra.
 
-Undead patient --> Critically Injured - Critically injured patients will die after you heal 2 other patients.  
-Troll patient --> Badly Injured - Badly injured patients will die after you heal 4 other patients.  
-Orc patient --> Injured - Injured patients have a long time before they die.
+**What Each Bandage Heals**
+---------------------------
 
-Just using that basic knowledge you can prioritize which ones to heal first and next, however just start from the left, and then continue doing them all, they usually won't die before you have finished your round. I did it this way and completed it the first time around.
+* [Linen Bandage](https://wowclassicdb.com/item/1251) = 66 dmg
+* [Heavy Linen Bandage](https://wowclassicdb.com/item/2581) = 114 dmg
+* [Wool Bandage](https://wowclassicdb.com/item/3530) = 161 dmg
+* [Heavy Wool Bandage](https://wowclassicdb.com/item/3531) = 301 dmg
+* [Silk Bandage](https://wowclassicdb.com/item/6450) = 400 dmg
+* [Heavy Silk Bandage](https://wowclassicdb.com/item/6451) = 640 dmg
+* [Mageweave Bandage](https://wowclassicdb.com/item/8544) = 800 dmg
+* [Heavy Mageweave Bandage](https://wowclassicdb.com/item/8545) = 1104 dmg
+* [Runecloth Bandage](https://wowclassicdb.com/item/14529) = 1360 dmg
+* [Heavy Runecloth Bandage](https://wowclassicdb.com/item/14530) = 2000 dmg
 
-### 225 - 300
+#### About the Author
 
-*   **225 - 240**  
-    30 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_bandage_19.jpg)Mageweave Bandage](https://classic.wowhead.com/spell=10840) - 30 Mageweave Cloth
+![](https://www.warcrafttavern.com/wp-content/uploads/tml-avatars/jaina-proudmoore-world-of-warcraft-1.jpg)
 
-*   **240 - 260**  
-    Talk to [![](/images/icons/alliance.png)Doctor Gustaf VanHowzen](https://classic.wowhead.com/npc=12939) / [![](/images/icons/horde.png)Doctor Gregory Victor](https://classic.wowhead.com/npc=12920) again to obtain Heavy Mageweave Bandages.
-    
-    30 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_bandage_20.jpg)Heavy Mageweave Bandage](https://classic.wowhead.com/spell=10841) - 60 Mageweave Cloth
-    
+#### Furious
 
-*   **260 - 290**  
-    Talk to [![](/images/icons/alliance.png)Doctor Gustaf VanHowzen](https://classic.wowhead.com/npc=12939) / [![](/images/icons/horde.png)Doctor Gregory Victor](https://classic.wowhead.com/npc=12920) again to obtain Runecloth Bandages.
-    
-    50 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_bandage_11.jpg)Runecloth Bandage](https://classic.wowhead.com/spell=18629) - 50 Runecloth
-    
+If I'm not working or spending time with the family I'm probably gaming. Some of my favorite recent games I've played are Far Cry 5, World of Warcraft Classic, and 7 Days to Die.
 
-*   **290 - 300**  
-    Finally, at level 290 First Aid you can talk to [![](/images/icons/alliance.png)Doctor Gustaf VanHowzen](https://classic.wowhead.com/npc=12939) / [![](/images/icons/horde.png)Doctor Gregory Victor](https://classic.wowhead.com/npc=12920) again to obtain Heavy Runecloth Bandages.
-    
-    15 x [![](https://wow.zamimg.com/images/wow/icons/small/inv_misc_bandage_12.jpg)Heavy Runecloth Bandage](https://classic.wowhead.com/spell=18630) - 30 Runecloth
-    
 
-I hope you liked this First Aid leveling guide, congratulations on reaching 300!
 
-[(Return to Top)](#top)
