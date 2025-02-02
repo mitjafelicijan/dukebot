@@ -67,6 +67,8 @@ pfQuest and other sources like Wowhead comments.
 
 All scripts that generate corpus data are located in `importer` directory.
 
+- `warcrafttavern.py` - fetches data from Warcraft Tavern and generates
+  markdown files from list of links defined `warcrafttavern.csv`.
 - `quests.lua` - takes pfQuest data and generates markdown files of quests.
 - `quests-comments.py` - takes `comments.csv` and appends all valid comments to
   quest data. Comment data is provided by web scraper written by
