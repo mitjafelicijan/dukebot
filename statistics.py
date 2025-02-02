@@ -26,6 +26,6 @@ async def default_handler(request: Request):
     }
 
     return request.app.templates.TemplateResponse(
-        request=request, name="stats.html", context=payload
+        request=request, name="statistics.html", context=payload
     )
 

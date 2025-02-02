@@ -28,9 +28,9 @@ from llama_index.core import (
 )
 
 import filters
-import healhcheck
 import default
-import stats
+import healhcheck
+import statistics
 import chat
 
 # Set up logging format.
@@ -92,5 +92,5 @@ app.mount("/static", StaticFiles(directory="static"), name="static")
 # Including routers.
 app.include_router(default.router)
 app.include_router(healhcheck.router, prefix="/healhcheck")
-app.include_router(stats.router, prefix="/stats")
+app.include_router(statistics.router, prefix="/statistics")
 app.include_router(chat.router, prefix="/chat")
