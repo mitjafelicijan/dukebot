@@ -102,3 +102,9 @@ options:
   --index     indexes local storage and saves vector index to local folder
 ```
 
+## Corpus data sources
+
+- pfQuest and pfQuest-turtle addon for quests
+- wowhead.com for quest comments
+- warcrafttavern.com for professions, dungeons, general
+
